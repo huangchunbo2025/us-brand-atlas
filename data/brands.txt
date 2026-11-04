@@ -1,0 +1,261 @@
+Amazon|亚马逊|WA|1994|华盛顿州，贝尔维尤|科技与通信|由网上书店起步，发展为电商、云计算和数字服务企业，旗下有 AWS。|amazon.com
+Starbucks|星巴克|WA|1971|华盛顿州，西雅图|餐饮与食品|最初在西雅图派克市场销售咖啡豆，后来发展为全球咖啡连锁品牌。|starbucks.com
+Costco|开市客|WA|1983|华盛顿州，西雅图|零售与消费|以会员制仓储卖场闻名，主营大包装商品，自有品牌为 Kirkland Signature。|costco.com
+Nordstrom|诺德斯特龙|WA|1901|华盛顿州，西雅图|零售与消费|起步于鞋店的美国百货公司，经营服饰、鞋履、美妆及家居商品。|nordstrom.com
+REI|REI 户外合作社|WA|1938|华盛顿州，西雅图|服饰与户外|采用消费者合作社模式的户外用品零售商，销售登山、露营和骑行装备。|rei.com
+Boeing|波音|WA|1916|华盛顿州，西雅图|汽车与工业|航空航天制造企业，业务包括民用飞机、国防装备及航天系统。|boeing.com
+Eddie Bauer|艾迪鲍尔|WA|1920|华盛顿州，西雅图|服饰与户外|以户外服装和羽绒服著称，品牌源自 Eddie Bauer 开设的运动用品店。|eddiebauer.com
+Fred Meyer|弗雷德迈耶|OR|1922|俄勒冈州，波特兰|零售与消费|集合食品、服装及家居商品的一站式连锁零售商，现属 Kroger。|fredmeyer.com
+Nike|耐克|OR|1964|俄勒冈州，尤金|服饰与户外|前身为 Blue Ribbon Sports，1971 年启用 Nike 名称，以运动鞋服和 Swoosh 标志闻名。|nike.com
+Columbia|哥伦比亚|OR|1938|俄勒冈州，波特兰|服饰与户外|源于帽子经销商，后发展为专注防风、防水及保暖科技的户外服装品牌。|columbia.com
+Schnitzer Steel|施尼策钢铁|OR|1906|俄勒冈州，波特兰|能源与材料|金属回收企业，2023 年更名为 Radius Recycling，2025 年被丰田通商收购。|radiusrecycling.com
+J.R. Simplot|辛普劳|ID|1929|爱达荷州，迪克洛|餐饮与食品|农业与食品企业，以马铃薯加工、冷冻薯条及农业服务业务著称。|simplot.com
+Micron|美光|ID|1978|爱达荷州，博伊西|科技与通信|半导体企业，主要生产 DRAM、NAND 闪存及相关存储解决方案。|micron.com
+Albertsons|艾伯森|ID|1939|爱达荷州，博伊西|零售与消费|美国大型食品与药品零售商，旗下包括 Safeway 等超市品牌。|albertsons.com
+WinCo Foods|WinCo 食品|ID|1967|爱达荷州，博伊西|零售与消费|前身为 Waremart，以员工持股、仓储式门店和低价食品著称。|wincofoods.com
+PayneWest|佩恩韦斯特|MT|2012|蒙大拿州|金融与服务|保险经纪品牌，由西北地区两家保险机构整合成立，现属 Marsh McLennan Agency。|paynewest.com
+Simms|西姆斯|MT|1980|怀俄明州，杰克逊；后迁至蒙大拿州博兹曼|服饰与户外|以飞钓涉水裤、钓鱼服饰及装备闻名，地图沿用原图的蒙大拿州关联。|simmsfishing.com
+Taco John's|塔可约翰|WY|1969|怀俄明州，夏延|餐饮与食品|美式墨西哥风味快餐连锁，代表产品包括 Potato Olés 土豆小食。|tacojohns.com
+Sinclair|辛克莱|WY|1916|原公司创立于纽约；品牌与怀俄明州炼油业务关联密切|能源与材料|以绿色恐龙标志闻名的燃油品牌，2022 年并入 HF Sinclair 体系。|sinclairoil.com
+Apple|苹果|CA|1976|加利福尼亚州，洛斯阿尔托斯|科技与通信|消费电子和软件企业，主要产品与服务包括 iPhone、Mac、iPad 和 App Store。|apple.com
+Google|谷歌|CA|1998|加利福尼亚州，门洛帕克|科技与通信|由互联网搜索起步，提供广告、Android、YouTube 和云服务，母公司为 Alphabet。|google.com
+Disney|迪士尼|CA|1923|加利福尼亚州，洛杉矶|娱乐与传媒|由动画工作室发展为娱乐集团，业务涵盖影视、主题乐园和消费产品。|thewaltdisneycompany.com
+Visa|维萨|CA|1958|加利福尼亚州，弗雷斯诺|金融与服务|起源于 BankAmericard 项目，现为全球电子支付网络，通常不直接向消费者发卡。|visa.com
+McDonald's|麦当劳|CA|1940|加利福尼亚州，圣贝纳迪诺|餐饮与食品|麦当劳兄弟创办的餐厅品牌；Ray Kroc 于 1955 年推动其现代特许经营体系。|mcdonalds.com
+Gap|盖璞|CA|1969|加利福尼亚州，旧金山|服饰与户外|以牛仔裤和美式休闲服饰起家，隶属 Gap Inc.。|gap.com
+Levi's|李维斯|CA|1853|加利福尼亚州，旧金山|服饰与户外|Levi Strauss 创立的服饰品牌，以铆钉牛仔裤和 501 系列闻名。|levi.com
+Patagonia|巴塔哥尼亚|CA|1973|加利福尼亚州，文图拉|服饰与户外|户外服装与装备品牌，强调耐用性、维修服务和环境保护。|patagonia.com
+The North Face|北面|CA|1966|加利福尼亚州，旧金山|服饰与户外|起步于户外用品店，后发展为登山、滑雪及户外服饰装备品牌。|thenorthface.com
+Vans|范斯|CA|1966|加利福尼亚州，阿纳海姆|服饰与户外|源于 Van Doren Rubber Company，以滑板鞋、街头服饰及青年文化闻名。|vans.com
+HP|惠普|CA|1939|加利福尼亚州，帕洛阿尔托|科技与通信|由 Bill Hewlett 与 Dave Packard 创立；2015 年拆分后，HP Inc. 主营电脑与打印业务。|hp.com
+Intel|英特尔|CA|1968|加利福尼亚州，山景城|科技与通信|半导体企业，以微处理器、x86 计算平台及芯片制造业务闻名。|intel.com
+Adobe|奥多比|CA|1982|加利福尼亚州，山景城|科技与通信|创意及数字体验软件企业，旗下产品包括 Photoshop、Illustrator、Acrobat 和 PDF 相关工具。|adobe.com
+Qualcomm|高通|CA|1985|加利福尼亚州，圣迭戈|科技与通信|无线通信与半导体企业，以移动通信技术、专利授权和 Snapdragon 芯片平台闻名。|qualcomm.com
+PayPal|贝宝|CA|1998|加利福尼亚州，帕洛阿尔托|金融与服务|起源于 Confinity，提供在线支付、商户收款及数字钱包服务。|paypal.com
+eBay|易贝|CA|1995|加利福尼亚州，圣何塞|零售与消费|由 AuctionWeb 起步的在线交易平台，连接个人卖家、商家与买家。|ebay.com
+Netflix|奈飞|CA|1997|加利福尼亚州，斯科茨谷|娱乐与传媒|从邮寄 DVD 租赁起步，后转型为流媒体订阅及原创影视制作企业。|netflix.com
+Activision|动视|CA|1979|加利福尼亚州，山景城|娱乐与传媒|电子游戏发行与开发品牌，代表系列包括《使命召唤》；2023 年随动视暴雪被微软收购。|activision.com
+X / Twitter|推特|CA|2006|加利福尼亚州，旧金山|科技与通信|实时社交平台，原名 Twitter，2023 年更名为 X。|x.com
+Chevron|雪佛龙|CA|1879|加利福尼亚州，旧金山|能源与材料|历史可追溯至 Pacific Coast Oil Company，经营油气勘探、生产、炼化及能源业务。|chevron.com
+Wells Fargo|富国银行|CA|1852|加利福尼亚州，旧金山|金融与服务|最初提供银行与快递服务，现为美国大型银行及金融服务企业。|wellsfargo.com
+Skechers|斯凯奇|CA|1992|加利福尼亚州，曼哈顿比奇|服饰与户外|以舒适休闲鞋和运动鞋为主的鞋履品牌，产品面向成人及儿童。|skechers.com
+In-N-Out|In-N-Out 汉堡|CA|1948|加利福尼亚州，鲍德温公园|餐饮与食品|由 Harry 与 Esther Snyder 创立，以简洁菜单、新鲜制作和得来速服务闻名。|in-n-out.com
+Taco Bell|塔可钟|CA|1962|加利福尼亚州，唐尼|餐饮与食品|Glen Bell 创办的美式墨西哥风味快餐品牌，现属百胜餐饮集团。|tacobell.com
+Dole|都乐|CA|1901|夏威夷，瓦胡岛；另有加州企业血统|餐饮与食品|源于 James Dole 创办的 Hawaiian Pineapple Company，经营菠萝、香蕉等果蔬；现公司由多次整合形成。|dole.com
+Nevada Gold Mines|内华达金矿|NV|2019|内华达州|能源与材料|由 Barrick 与 Newmont 合作设立的黄金开采合资企业，整合双方在内华达州的多座矿山。|nevadagoldmines.com
+VIRNETX|VirnetX|NV|2005|美国；地图关联内华达州|科技与通信|聚焦网络安全技术、专利及安全通信解决方案的企业。|virnetx.com
+MGM Resorts|美高梅度假村|NV|1986|内华达州，拉斯维加斯|娱乐与传媒|以综合度假村、酒店、餐饮和娱乐业务闻名，前身为 MGM Grand。|mgmresorts.com
+Zions Bank|锡安银行|UT|1873|犹他州，盐湖城|金融与服务|美国西部地区银行品牌，为个人及企业提供存贷款与金融服务。|zionsbank.com
+DOMO|多睦|UT|2010|犹他州|科技与通信|以云端商业智能和数据可视化平台为核心，帮助企业整合与分析业务数据。|domo.com
+Qualtrics|夸特里克斯|UT|2002|犹他州，普罗沃|科技与通信|体验管理软件企业，提供客户、员工、产品和品牌体验的调查与分析工具。|qualtrics.com
+doTERRA|多特瑞|UT|2008|犹他州，普莱森特格罗夫|零售与消费|以精油、个人护理和健康相关商品为主的直销品牌。|doterra.com
+USANA|优莎纳|UT|1992|犹他州，盐湖城|零售与消费|生产营养补充剂及个人护理产品的企业，采用直销模式。|usana.com
+GoDaddy|GoDaddy|AZ|1997|亚利桑那州，凤凰城|科技与通信|域名注册、网站建设及托管服务企业，前身名称为 Jomax Technologies。|godaddy.com
+PetSmart|佩特斯玛特|AZ|1986|亚利桑那州，凤凰城|零售与消费|宠物用品和服务连锁企业，提供食品、用品、美容及部分门店的寄养服务。|petsmart.com
+U-Haul|优浩|AZ|1945|华盛顿州，里奇菲尔德；总部长期位于凤凰城|金融与服务|提供自助搬家货车、拖车和仓储租赁服务，地图沿用其亚利桑那州关联。|uhaul.com
+Sprouts|Sprouts 生鲜|AZ|2002|亚利桑那州，钱德勒|零售与消费|以生鲜、天然及有机食品为特色的美国超市连锁。|sprouts.com
+Microsoft|微软|NM|1975|新墨西哥州，阿尔伯克基|科技与通信|由 Bill Gates 和 Paul Allen 创立，业务涵盖 Windows、Microsoft 365、Azure、Xbox 及人工智能。|microsoft.com
+Allsup's|Allsup's 便利店|NM|1956|新墨西哥州，罗斯韦尔|零售与消费|美国西南部便利店品牌，以热食及墨西哥卷饼闻名，现属 Yesway。|allsups.com
+Presbyterian|长老会医疗服务|NM|1908|新墨西哥州，阿尔伯克基|金融与服务|非营利医疗体系，提供医院、诊所及健康保险相关服务。|phs.org
+Coors|库尔斯|CO|1873|科罗拉多州，戈尔登|餐饮与食品|由 Adolph Coors 与 Jacob Schueler 创办的啤酒品牌，现属 Molson Coors。|coors.com
+Crocs|卡骆驰|CO|2002|科罗拉多州，博尔德|服饰与户外|以轻质模塑洞洞鞋和 Croslite 材料闻名，产品覆盖休闲鞋履及鞋饰。|crocs.com
+Chipotle|奇波雷|CO|1993|科罗拉多州，丹佛|餐饮与食品|以墨西哥卷饼、碗餐和现场配餐模式闻名的快休闲餐饮品牌。|chipotle.com
+Red Robin|红罗宾|CO|1969|华盛顿州，西雅图；后将总部设在科罗拉多州|餐饮与食品|主打汉堡及休闲美式餐饮的连锁餐厅，地图沿用原图的科罗拉多州关联。|redrobin.com
+Celestial Seasonings|天体调味茶|CO|1969|科罗拉多州，博尔德|餐饮与食品|以草本茶及特色混合茶闻名，代表产品包括 Sleepytime 茶。|celestialseasonings.com
+OtterBox|奥特盒|CO|1998|科罗拉多州，柯林斯堡|零售与消费|以手机和平板电脑防护外壳、防水及耐冲击配件闻名。|otterbox.com
+Bobcat|山猫|ND|1958|北达科他州，格温纳|汽车与工业|品牌历史与 Melroe 公司及早期紧凑型装载机有关，以滑移装载机和小型工程设备闻名。|bobcat.com
+Alerus|阿勒鲁斯|ND|1879|北达科他州，大福克斯|金融与服务|源于当地银行，提供银行、财富管理、退休金及员工福利等金融服务。|alerus.com
+POET|POET 生物燃料|SD|1987|南达科他州，斯科特兰|能源与材料|从乙醇生产起步的生物加工企业，生产生物燃料及相关农业副产品。|poet.com
+Raven|瑞文工业|SD|1956|南达科他州，苏福尔斯|汽车与工业|以精准农业技术及应用工程业务著称，2021 年被 CNH 收购。|ravenind.com
+Sanford Health|桑福德医疗|SD|1894|南达科他州，苏福尔斯|金融与服务|非营利医疗体系，历史可追溯至当地医院，提供临床、保险与医疗研究服务。|sanfordhealth.org
+Berkshire Hathaway|伯克希尔哈撒韦|NE|1839|纺织业务前身创立于罗得岛州；总部位于奥马哈|金融与服务|由纺织企业转型的多元控股集团，以保险业务和长期投资策略闻名。|berkshirehathaway.com
+Union Pacific|联合太平洋|NE|1862|美国；公司与内布拉斯加州奥马哈长期关联|汽车与工业|美国大型货运铁路企业，运输网络主要覆盖美国西部。|up.com
+Conagra|康尼格拉|NE|1919|内布拉斯加州，格兰德艾兰|餐饮与食品|起源于 Nebraska Consolidated Mills，旗下食品品牌包括 Hunt's、Healthy Choice 等。|conagrabrands.com
+Kool-Aid|酷爱|NE|1927|内布拉斯加州，黑斯廷斯|餐饮与食品|由 Edwin Perkins 开发的调味饮料粉品牌，现属卡夫亨氏。|koolaid.com
+Koch|科氏|KS|1940|堪萨斯州，威奇托|能源与材料|起源于 Wood River Oil and Refining，业务覆盖能源、化工、材料、工业及投资。|kochinc.com
+Garmin|佳明|KS|1989|堪萨斯州，莱内克萨|科技与通信|以 GPS 导航起步，产品覆盖运动手表、航空、海事、汽车与户外设备。|garmin.com
+Pizza Hut|必胜客|KS|1958|堪萨斯州，威奇托|餐饮与食品|由 Dan 与 Frank Carney 兄弟创办的披萨连锁品牌，现属百胜餐饮集团。|pizzahut.com
+AMC Theatres|AMC 影院|KS|1920|密苏里州，堪萨斯城；总部位于堪萨斯州|娱乐与传媒|由 Dubinsky 兄弟的影院业务发展而来，是大型电影院线运营商。|amctheatres.com
+YRC|YRC 货运|KS|1924|俄克拉何马州，俄克拉何马城；后总部位于堪萨斯州|汽车与工业|源于 Yellow Transit 的零担货运品牌；母公司 Yellow 于 2023 年停止运营并申请破产。|en.wikipedia.org/wiki/Yellow_Corporation
+Sonic|索尼克快餐|OK|1953|俄克拉何马州，肖尼|餐饮与食品|起源于 Top Hat Drive-In，以汽车穿梭点餐、饮品和美式快餐著称。|sonicdrivein.com
+Love's|乐福旅行站|OK|1964|俄克拉何马州，沃通加|零售与消费|由 Tom 与 Judy Love 创办，经营公路旅行站、加油及卡车司机相关服务。|loves.com
+Hobby Lobby|好必来|OK|1972|俄克拉何马州，俄克拉何马城|零售与消费|以手工材料、艺术用品、节庆及家居装饰商品为主的零售连锁。|hobbylobby.com
+QuikTrip|快旅便利店|OK|1958|俄克拉何马州，塔尔萨|零售与消费|便利店与加油站连锁，经营现制食品、饮料及燃油。|quiktrip.com
+Phillips 66|菲利普斯66|OK|1917|俄克拉何马州，巴特尔斯维尔|能源与材料|燃油品牌源于 Phillips Petroleum；现 Phillips 66 公司于 2012 年由康菲分拆。|phillips66.com
+ONEOK|万欧克|OK|1906|俄克拉何马领地，塔尔萨|能源与材料|起源于 Oklahoma Natural Gas，现主要经营天然气、天然气液及能源中游基础设施。|oneok.com
+AT&T|美国电话电报|TX|1885|纽约州，纽约市；现总部位于达拉斯|科技与通信|电信企业，提供移动通信、宽带及商业网络服务；地图沿用原图的得克萨斯州关联。|att.com
+Dell|戴尔|TX|1984|得克萨斯州，奥斯汀|科技与通信|Michael Dell 创办的计算机企业，产品与服务覆盖个人电脑、服务器、存储和企业 IT。|dell.com
+7-Eleven|7-Eleven 便利店|TX|1927|得克萨斯州，达拉斯|零售与消费|起源于 Southland Ice Company 的零售业务，后发展为全球便利店品牌。|7-eleven.com
+Dr Pepper|胡椒博士|TX|1885|得克萨斯州，韦科|餐饮与食品|由 Charles Alderton 配制的碳酸饮料品牌，以独特混合风味闻名。|drpepper.com
+Whataburger|瓦塔汉堡|TX|1950|得克萨斯州，科珀斯克里斯蒂|餐饮与食品|由 Harmon Dobson 等创办的汉堡连锁，以现点现做及橙白相间门店设计闻名。|whataburger.com
+H-E-B|HEB 超市|TX|1905|得克萨斯州，克尔维尔|零售与消费|由 Florence Butt 创办的小型食品店发展而来，主要服务得克萨斯州及墨西哥市场。|heb.com
+Whole Foods|全食超市|TX|1980|得克萨斯州，奥斯汀|零售与消费|以天然及有机食品为特色的超市连锁，2017 年被亚马逊收购。|wholefoodsmarket.com
+Southwest|西南航空|TX|1967|得克萨斯州，圣安东尼奥|汽车与工业|美国航空公司，1971 年开始运营，以美国国内航线网络闻名。|southwest.com
+GameStop|游戏驿站|TX|1984|得克萨斯州，达拉斯|零售与消费|前身为 Babbage's，经营电子游戏、游戏主机、配件及相关收藏品。|gamestop.com
+Texas Instruments|德州仪器|TX|1930|新泽西州，纽瓦克；后发展于达拉斯|科技与通信|历史可追溯至地球物理服务公司 GSI，1951 年使用现名，主要生产模拟和嵌入式芯片。|ti.com
+USAA|联合服务汽车协会|TX|1922|得克萨斯州，圣安东尼奥|金融与服务|主要面向符合资格的军人、退伍军人及家属提供保险、银行和金融服务。|usaa.com
+ExxonMobil|埃克森美孚|TX|1999|由 Exxon 与 Mobil 合并；现总部位于得克萨斯州|能源与材料|综合能源与石化企业，两家前身均有标准石油体系的历史。|exxonmobil.com
+Sysco|西斯科食品|TX|1969|得克萨斯州，休斯敦|餐饮与食品|面向餐厅、医疗机构、学校及酒店等客户提供食品、用品及配送服务。|sysco.com
+3M|明尼苏达矿业制造|MN|1902|明尼苏达州，图哈伯斯|能源与材料|从采矿业务起步的材料科技企业，代表品牌包括 Scotch 胶带和 Post-it 便利贴。|3m.com
+Target|塔吉特|MN|1962|明尼苏达州，罗斯维尔|零售与消费|由 Dayton 百货体系孵化的大型零售品牌，经营服装、家居、食品和日用品。|target.com
+Best Buy|百思买|MN|1966|明尼苏达州，圣保罗|零售与消费|前身为 Sound of Music，主要经营消费电子、家电及相关技术服务。|bestbuy.com
+General Mills|通用磨坊|MN|1928|明尼苏达州，明尼阿波利斯|餐饮与食品|由多家面粉企业整合成立的食品企业，旗下包括 Cheerios、Betty Crocker 等品牌。|generalmills.com
+Cargill|嘉吉|MN|1865|艾奥瓦州，康诺弗；总部位于明尼苏达州|餐饮与食品|经营农产品贸易、加工、食品原料及营养业务的私营企业。|cargill.com
+Hormel|荷美尔|MN|1891|明尼苏达州，奥斯汀|餐饮与食品|食品企业，以肉制品及 SPAM 午餐肉品牌闻名。|hormelfoods.com
+Polaris|北极星|MN|1954|明尼苏达州，罗索|汽车与工业|以雪地摩托起家，制造全地形车、越野车辆、摩托车及相关装备。|polaris.com
+Toro|托罗|MN|1914|明尼苏达州，明尼阿波利斯|汽车与工业|提供草坪维护、园林设备及灌溉解决方案，服务家庭与专业用户。|toro.com
+Principal|信安金融|IA|1879|艾奥瓦州，得梅因|金融与服务|起源于 Bankers Life，主营退休金、保险、资产管理及员工福利服务。|principal.com
+Meredith|梅雷迪思|IA|1902|艾奥瓦州，得梅因|娱乐与传媒|杂志出版企业，曾拥有《Better Homes & Gardens》等品牌；2021 年主要出版业务并入 Dotdash。|dotdashmeredith.com
+Hy-Vee|海威超市|IA|1930|艾奥瓦州，比肯斯菲尔德|零售与消费|以员工持股模式著称的美国中西部超市连锁，兼营药房和餐饮等服务。|hy-vee.com
+Casey's|凯西便利店|IA|1968|艾奥瓦州，布恩|零售与消费|经营便利店和加油站，以门店现制披萨著称。|caseys.com
+Rockwell Collins|罗克韦尔柯林斯|IA|1933|艾奥瓦州，锡达拉皮兹|汽车与工业|源于 Collins Radio 的航空电子企业；后整合进入 Collins Aerospace，现属 RTX。|collinsaerospace.com
+Anheuser-Busch|安海斯布希|MO|1852|密苏里州，圣路易斯|餐饮与食品|美国啤酒酿造企业，旗下品牌包括 Budweiser 和 Bud Light，现属 AB InBev。|anheuser-busch.com
+Panera Bread|帕尼拉面包|MO|1987|密苏里州，柯克伍德|餐饮与食品|起源于 Saint Louis Bread Company，主打面包、三明治、沙拉、汤及咖啡。|panerabread.com
+Hallmark|贺曼|MO|1910|密苏里州，堪萨斯城|零售与消费|Joyce Hall 创办的贺卡企业，业务延伸至礼品、节庆用品与娱乐内容。|hallmark.com
+Enterprise|企业租车|MO|1957|密苏里州，圣路易斯|金融与服务|由 Jack Taylor 创办，提供汽车租赁及相关出行服务。|enterprise.com
+O'Reilly|奥莱利汽配|MO|1957|密苏里州，斯普林菲尔德|零售与消费|汽车零配件及工具零售商，同时服务个人车主和专业维修客户。|oreillyauto.com
+Walmart|沃尔玛|AR|1962|阿肯色州，罗杰斯|零售与消费|Sam Walton 创办的零售企业，经营大型超市、仓储会员店及电商业务。|walmart.com
+Tyson|泰森食品|AR|1935|阿肯色州，斯普林代尔|餐饮与食品|由家禽运输业务起步，现为经营鸡肉、牛肉、猪肉及加工食品的大型企业。|tysonfoods.com
+Dillard's|迪拉德百货|AR|1938|阿肯色州，纳什维尔|零售与消费|William T. Dillard 创办的百货零售商，主营服饰、鞋履、美妆及家居商品。|dillards.com
+J.B. Hunt|亨特运输|AR|1961|阿肯色州，斯图加特|汽车与工业|货运与物流服务企业，业务包括公铁联运、专用车队和货运经纪。|jbhunt.com
+Popeyes|大力水手炸鸡|LA|1972|路易斯安那州，阿拉比|餐饮与食品|Al Copeland 创办的炸鸡连锁，以路易斯安那风味及炸鸡三明治闻名。|popeyes.com
+Tabasco|塔巴斯科|LA|1868|路易斯安那州，艾弗里岛|餐饮与食品|McIlhenny 家族创办的辣椒酱品牌，经典红椒酱以辣椒、醋和盐制成。|tabasco.com
+Lumen|流明科技|LA|1930|路易斯安那州，橡树岭|科技与通信|历史可追溯至当地电话公司，原名 CenturyLink，2020 年更名为 Lumen Technologies。|lumen.com
+Cleco|克莱科|LA|1935|路易斯安那州|能源与材料|源于 Louisiana Ice & Utilities，主要为路易斯安那州客户提供电力服务。|cleco.com
+Harley-Davidson|哈雷戴维森|WI|1903|威斯康星州，密尔沃基|汽车与工业|美国摩托车品牌，以大型巡航和旅行摩托车及相关骑行文化闻名。|harley-davidson.com
+Kohler|科勒|WI|1873|威斯康星州，希博伊根|零售与消费|从铸铁制造起步，后发展为厨卫产品品牌，同时经营酒店及相关业务。|kohler.com
+Trek|崔克|WI|1976|威斯康星州，滑铁卢|服饰与户外|自行车及骑行装备品牌，产品覆盖公路车、山地车、城市车和电助力自行车。|trekbikes.com
+S.C. Johnson|庄臣|WI|1886|威斯康星州，拉辛|零售与消费|家庭清洁及家居用品企业，旗下品牌包括 Windex、Glade 和 Raid 等。|scjohnson.com
+Culver's|卡尔弗|WI|1984|威斯康星州，索克城|餐饮与食品|以 ButterBurger 汉堡、冷冻奶油甜品和奶酪凝乳小食著称的餐饮连锁。|culvers.com
+Snap-on|实耐宝|WI|1920|威斯康星州，密尔沃基|汽车与工业|为专业维修及工业领域提供工具、诊断设备和相关解决方案。|snapon.com
+Abbott|雅培|IL|1888|伊利诺伊州，芝加哥|金融与服务|医疗健康企业，业务包括诊断、医疗器械、营养品及部分地区的药品。|abbott.com
+Walgreens|沃尔格林|IL|1901|伊利诺伊州，芝加哥|零售与消费|由 Charles R. Walgreen 创办的连锁药房，提供处方药、健康及日常零售服务。|walgreens.com
+Caterpillar|卡特彼勒|IL|1925|加利福尼亚州，由 Holt 与 Best 两家公司合并|汽车与工业|工程机械及动力设备制造企业，长期与伊利诺伊州皮奥里亚关联，现总部位于得克萨斯州。|caterpillar.com
+John Deere|约翰迪尔|IL|1837|伊利诺伊州，格兰德迪图尔|汽车与工业|由铁匠 John Deere 的钢犁业务发展而来，制造农业、林业及工程设备。|deere.com
+United Airlines|美国联合航空|IL|1926|爱达荷州，博伊西的邮政航空业务前身|汽车与工业|由多家早期航空企业整合发展而来，现总部位于芝加哥，经营国内及国际客运航线。|united.com
+Kraft|卡夫|IL|1903|伊利诺伊州，芝加哥|餐饮与食品|由 J. L. Kraft 的奶酪业务起步，现为卡夫亨氏体系内的食品品牌。|kraftheinz.com
+Wrigley|箭牌|IL|1891|伊利诺伊州，芝加哥|餐饮与食品|以口香糖及糖果闻名，代表品牌包括 Doublemint、Juicy Fruit 等，现属 Mars。|mars.com
+State Farm|州立农业保险|IL|1922|伊利诺伊州，布卢明顿|金融与服务|George J. Mecherle 创办的保险企业，以汽车、家庭及人寿保险等业务闻名。|statefarm.com
+Eli Lilly|礼来|IN|1876|印第安纳州，印第安纳波利斯|金融与服务|Eli Lilly 创办的制药企业，研究及生产糖尿病、肿瘤、免疫等领域药品。|lilly.com
+Cummins|康明斯|IN|1919|印第安纳州，哥伦布|汽车与工业|动力技术企业，提供发动机、发电设备、零部件及新能源动力解决方案。|cummins.com
+Steak 'n Shake|牛排与奶昔|IN|1934|伊利诺伊州，诺默尔；后总部位于印第安纳波利斯|餐饮与食品|以 Steakburger 汉堡、薯条和手工奶昔为特色的餐厅连锁。|steaknshake.com
+Ford|福特|MI|1903|密歇根州，底特律|汽车与工业|Henry Ford 等人创立的汽车制造商，以流水线量产、F 系列皮卡及 Mustang 闻名。|ford.com
+General Motors|通用汽车|MI|1908|密歇根州，弗林特|汽车与工业|由 William C. Durant 创立，旗下品牌包括 Chevrolet、Buick、GMC 和 Cadillac。|gm.com
+Chevrolet|雪佛兰|MI|1911|密歇根州，底特律|汽车与工业|由 Louis Chevrolet 与 William C. Durant 等创立，现为通用汽车旗下汽车品牌。|chevrolet.com
+Kellogg's|家乐氏|MI|1906|密歇根州，巴特尔克里克|餐饮与食品|由 W. K. Kellogg 创立，以早餐麦片闻名；2023 年原公司拆分为两家企业。|kelloggs.com
+Domino's|达美乐|MI|1960|密歇根州，伊普西兰蒂|餐饮与食品|起源于 DomiNick's 披萨店，以披萨外送、数字点餐和特许经营网络著称。|dominos.com
+Little Caesars|小凯撒|MI|1959|密歇根州，花园城|餐饮与食品|Mike 与 Marian Ilitch 创办的披萨连锁，以即取式产品及平价定位闻名。|littlecaesars.com
+Whirlpool|惠而浦|MI|1911|密歇根州，圣约瑟夫|零售与消费|前身为 Upton Machine Company，经营洗衣机、冰箱、厨电等家用电器。|whirlpool.com
+Amway|安利|MI|1959|密歇根州，埃达|零售与消费|由 Jay Van Andel 和 Rich DeVos 创办，采用直销模式经营营养、美容及家居产品。|amway.com
+Steelcase|世楷|MI|1912|密歇根州，大急流城|零售与消费|前身为 Metal Office Furniture Company，提供办公家具及工作空间解决方案。|steelcase.com
+P&G|宝洁|OH|1837|俄亥俄州，辛辛那提|零售与消费|William Procter 与 James Gamble 创办的消费品企业，旗下包括 Tide、Pampers 等品牌。|pg.com
+Goodyear|固特异|OH|1898|俄亥俄州，阿克伦|汽车与工业|Frank Seiberling 创办的轮胎企业，为乘用车、商用车及航空等领域提供轮胎。|goodyear.com
+Kroger|克罗格|OH|1883|俄亥俄州，辛辛那提|零售与消费|Bernard Kroger 创办的食品零售企业，经营多个区域超市和自有商品品牌。|kroger.com
+Wendy's|温迪汉堡|OH|1969|俄亥俄州，哥伦布|餐饮与食品|Dave Thomas 创办的快餐连锁，以方形牛肉饼、汉堡及 Frosty 甜品著称。|wendys.com
+Jeni's|杰妮冰淇淋|OH|2002|俄亥俄州，哥伦布|餐饮与食品|Jeni Britton 创办的手工冰淇淋品牌，以特色配方和季节风味闻名。|jenis.com
+Sherwin-Williams|宣伟|OH|1866|俄亥俄州，克利夫兰|能源与材料|涂料与涂层企业，为建筑、工业及专业用户提供产品和服务。|sherwin-williams.com
+Scotts|史考特|OH|1868|俄亥俄州，马里斯维尔|零售与消费|由种子业务起步的草坪护理品牌，产品包括草籽、肥料及园艺用品。|scotts.com
+Progressive|前进保险|OH|1937|俄亥俄州，克利夫兰|金融与服务|由 Joseph Lewis 与 Jack Green 创办，以汽车保险及在线投保服务著称。|progressive.com
+KFC|肯德基|KY|1930|肯塔基州，科尔宾|餐饮与食品|品牌源于 Harland Sanders 的餐饮业务；1952 年在犹他州开出首家特许经营店，现属百胜。|kfc.com
+Papa Johns|棒约翰|KY|1984|印第安纳州，杰斐逊维尔；长期总部位于肯塔基州|餐饮与食品|John Schnatter 创办的披萨连锁，提供外送、外带和数字点餐服务。|papajohns.com
+Louisville Slugger|路易斯维尔球棒|KY|1884|肯塔基州，路易斯维尔|服饰与户外|以棒球球棒闻名的运动器材品牌，起源于 Hillerich 家族木制品作坊。|slugger.com
+Fruit of the Loom|织布机果实|KY|1851|罗得岛州，沃里克；总部位于肯塔基州鲍灵格林|服饰与户外|基础服饰品牌，主要生产内衣、T 恤和休闲服，现属伯克希尔哈撒韦。|fruit.com
+Brown-Forman|百富门|KY|1870|肯塔基州，路易斯维尔|餐饮与食品|以 Old Forester 起家的酒业企业，旗下品牌包括 Jack Daniel's 和 Woodford Reserve。|brown-forman.com
+FedEx|联邦快递|TN|1971|阿肯色州，小石城；1973 年在孟菲斯开始运营|汽车与工业|由 Frederick W. Smith 创立，提供快递、货运及物流服务。|fedex.com
+AutoZone|汽车地带|TN|1979|阿肯色州，福里斯特城；总部位于孟菲斯|零售与消费|前身为 Auto Shack，主要零售汽车零部件、配件和维修用品。|autozone.com
+Jack Daniel's|杰克丹尼|TN|1866|田纳西州，林奇堡|餐饮与食品|以田纳西威士忌闻名，采用枫木炭过滤工艺，现属 Brown-Forman。|jackdaniels.com
+Dollar General|达乐|TN|1939|肯塔基州，斯科茨维尔；总部位于田纳西州|零售与消费|源于 J. L. Turner and Son，提供日用品、食品和家居等平价零售商品。|dollargeneral.com
+Cracker Barrel|饼干桶餐厅|TN|1969|田纳西州，黎巴嫩|餐饮与食品|Danny Evins 创办的餐厅兼礼品店连锁，以美国南方家常菜和乡村装饰著称。|crackerbarrel.com
+International Paper|国际纸业|TN|1898|纽约州，奥尔巴尼；总部位于孟菲斯|能源与材料|由多家纸浆和造纸企业整合成立，现以可再生纤维包装相关业务为主。|internationalpaper.com
+Milo's|米洛茶与汉堡|AL|1946|亚拉巴马州，伯明翰|餐饮与食品|最早为 Milo Carlton 创办的餐馆；其甜茶后来发展为独立的 Milo's Tea Company。|drinkmilos.com
+Regions|地区金融|AL|1971|亚拉巴马州，伯明翰|金融与服务|由当地银行整合成立的金融企业，提供零售银行、商业银行及财富管理服务。|regions.com
+Books-A-Million|百万图书|AL|1917|亚拉巴马州，佛罗伦萨|零售与消费|由报刊销售业务发展而来的书店连锁，销售图书、文具、玩具及文化商品。|booksamillion.com
+Alfa|阿尔法保险|AL|1946|亚拉巴马州，蒙哥马利|金融与服务|源于州农业组织的保险业务，为个人、家庭和企业提供多种保险。|alfainsurance.com
+Peavey|百威音响|MS|1965|密西西比州，默里迪恩|娱乐与传媒|Hartley Peavey 创办的音响设备企业，生产乐器放大器、扬声器及专业音频设备。|peavey.com
+Viking|维京厨电|MS|1987|密西西比州，格林伍德|零售与消费|以家用专业风格炉灶和高端厨电闻名的品牌。|vikingrange.com
+Trustmark|信标银行|MS|1889|密西西比州，杰克逊|金融与服务|历史可追溯至 Jackson Bank，提供银行、财富管理等金融服务。|trustmark.com
+Coca-Cola|可口可乐|GA|1886|佐治亚州，亚特兰大|餐饮与食品|由药剂师 John Pemberton 调配的碳酸饮料，后来发展为全球饮料品牌及企业。|coca-cola.com
+Delta|达美航空|GA|1925|佐治亚州，梅肯的植保航空业务前身|汽车与工业|起源于 Huff Daland Dusters，现为提供国内及国际航线服务的航空公司。|delta.com
+The Home Depot|家得宝|GA|1978|佐治亚州，亚特兰大|零售与消费|家居建材及装修用品零售商，首批门店于 1979 年开业。|homedepot.com
+Chick-fil-A|福来鸡|GA|1967|佐治亚州，亚特兰大|餐饮与食品|S. Truett Cathy 创办的鸡肉快餐品牌，其餐饮业务可追溯至 1946 年的 Dwarf Grill。|chick-fil-a.com
+UPS|联合包裹|GA|1907|华盛顿州，西雅图；总部位于亚特兰大地区|汽车与工业|起源于 American Messenger Company，提供包裹配送、货运及供应链服务。|ups.com
+Arby's|阿比斯|GA|1964|俄亥俄州，博德曼；总部位于亚特兰大地区|餐饮与食品|Forrest 与 Leroy Raffel 兄弟创办，以烤牛肉三明治等产品闻名的快餐连锁。|arbys.com
+Waffle House|华夫饼屋|GA|1955|佐治亚州，埃文代尔庄园|餐饮与食品|Joe Rogers 与 Tom Forkner 创办，以华夫饼、早餐及全天候餐饮服务闻名。|wafflehouse.com
+Publix|大众超级市场|FL|1930|佛罗里达州，温特黑文|零售与消费|George W. Jenkins 创办的员工持股超市企业，主要服务美国东南部。|publix.com
+Burger King|汉堡王|FL|1954|佛罗里达州，迈阿密|餐饮与食品|现代品牌由 James McLamore 与 David Edgerton 创办，前身可追溯至 1953 年的 Insta-Burger King。|bk.com
+Ryder|莱德|FL|1933|佛罗里达州，迈阿密|汽车与工业|由 Jim Ryder 创办，提供商用车租赁、车队管理、仓储与供应链服务。|ryder.com
+Chewy|宠物电商 Chewy|FL|2011|佛罗里达州，普兰泰申|零售与消费|由 Ryan Cohen 与 Michael Day 创办，在线销售宠物食品、用品及相关健康服务。|chewy.com
+Royal Caribbean|皇家加勒比|FL|1968|美国迈阿密与挪威航运企业合作创办|娱乐与传媒|国际邮轮品牌，以大型度假邮轮及海上娱乐体验闻名。|royalcaribbean.com
+FIS|富达国民信息服务|FL|1968|阿肯色州，小石城；总部位于杰克逊维尔|科技与通信|源于 Systematics 相关业务的金融科技企业，为银行及资本市场提供技术与处理服务。|fisglobal.com
+Lowe's|劳氏|NC|1921|北卡罗来纳州，北威尔克斯伯勒|零售与消费|由家族五金店发展而来的家居装修零售企业，面向家庭与专业施工客户。|lowes.com
+Pepsi|百事可乐|NC|1898|北卡罗来纳州，新伯尔尼|餐饮与食品|Caleb Bradham 调配的饮料最初名为 Brad's Drink，1898 年改名为 Pepsi-Cola。|pepsi.com
+Krispy Kreme|卡思契纳甜甜圈|NC|1937|北卡罗来纳州，温斯顿塞勒姆|餐饮与食品|Vernon Rudolph 创办的甜甜圈品牌，以 Original Glazed 原味糖霜甜甜圈闻名。|krispykreme.com
+SAS|赛仕|NC|1976|北卡罗来纳州，罗利|科技与通信|由大学统计分析项目发展而来，提供数据分析、统计及人工智能软件。|sas.com
+Bank of America|美国银行|NC|1998|现公司由北卡罗来纳州 NationsBank 与 BankAmerica 合并|金融与服务|前身历史可追溯至更早的多家银行，提供个人、企业及投资银行服务。|bankofamerica.com
+Hanes|恒适|NC|1901|北卡罗来纳州，温斯顿塞勒姆|服饰与户外|源于 Hanes 家族针织业务，以内衣、T 恤、袜子及基础服饰产品闻名。|hanes.com
+Bojangles|博强乐炸鸡|NC|1977|北卡罗来纳州，夏洛特|餐饮与食品|以卡真风味炸鸡、酪乳比司吉及南方风味配餐为特色的连锁餐饮品牌。|bojangles.com
+Denny's|丹尼斯|SC|1953|加利福尼亚州，莱克伍德；总部位于南卡罗来纳州|餐饮与食品|起源于 Danny's Donuts，以美式早餐、煎饼和家庭餐饮服务著称。|dennys.com
+Sonoco|索诺科|SC|1899|南卡罗来纳州，哈茨维尔|能源与材料|前身为 Southern Novelty Company，生产工业及消费品包装材料与容器。|sonoco.com
+Blackbaud|布莱克波特|SC|1981|纽约州，纽约市；总部位于查尔斯顿|科技与通信|为非营利组织、教育和社会公益机构提供筹款、管理及财务软件。|blackbaud.com
+Capital One|第一资本|VA|1994|弗吉尼亚州，里士满|金融与服务|由 Signet 的信用卡业务分拆成立，经营信用卡、银行及汽车金融等业务。|capitalone.com
+Hilton|希尔顿|VA|1919|得克萨斯州，思科；总部位于弗吉尼亚州|金融与服务|Conrad Hilton 收购 Mobley Hotel 起家，后发展为全球酒店及特许经营集团。|hilton.com
+CarMax|卡迈斯|VA|1993|弗吉尼亚州，里士满|零售与消费|由 Circuit City 孵化的二手车零售企业，提供车辆交易和相关金融服务。|carmax.com
+Dollar Tree|美元树|VA|1986|弗吉尼亚州，诺福克|零售与消费|起源于 Only $1.00 门店，现为提供多种价格档位的折扣零售连锁。|dollartree.com
+Freddie Mac|房地美|VA|1970|美国国会设立；总部位于弗吉尼亚州|金融与服务|政府支持住房金融企业，通过购买住房贷款及证券化等方式支持抵押贷款市场。|freddiemac.com
+Marriott|万豪|MD|1927|华盛顿哥伦比亚特区；总部位于马里兰州|金融与服务|由 J. Willard 与 Alice Marriott 的餐饮业务起步，1957 年进入酒店业。|marriott.com
+Under Armour|安德玛|MD|1996|华盛顿哥伦比亚特区；后总部设于巴尔的摩|服饰与户外|Kevin Plank 创办的运动品牌，从排汗紧身运动衫起步，产品涵盖运动服、鞋及装备。|underarmour.com
+McCormick|味好美|MD|1889|马里兰州，巴尔的摩|餐饮与食品|Willoughby M. McCormick 创办的调味品企业，生产香辛料、调味酱及食品原料。|mccormick.com
+GEICO|盖可保险|MD|1936|得克萨斯州，沃思堡；总部位于马里兰州|金融与服务|由 Leo 与 Lillian Goodwin 创办，以汽车保险和壁虎广告形象闻名，现属伯克希尔哈撒韦。|geico.com
+Lockheed Martin|洛克希德马丁|MD|1995|由 Lockheed 与 Martin Marietta 合并；总部位于贝塞斯达|汽车与工业|航空航天与国防技术企业，经营飞机、导弹、太空及相关系统业务。|lockheedmartin.com
+DuPont|杜邦|DE|1802|特拉华州，威尔明顿附近|能源与材料|最初为火药制造企业，后发展为材料与化工企业；现公司经历多次重组与分拆。|dupont.com
+W. L. Gore|戈尔|DE|1958|特拉华州，纽瓦克|能源与材料|Bill 与 Vieve Gore 创办的材料科技企业，以 GORE-TEX 防水透湿面料及医疗产品闻名。|gore.com
+Chemours|科慕|DE|2015|特拉华州，威尔明顿|能源与材料|由杜邦的部分化学品业务分拆成立，经营钛白粉、制冷剂及先进材料等业务。|chemours.com
+Mylan|迈兰|WV|1961|西弗吉尼亚州，怀特萨尔弗斯普林斯|金融与服务|由药品经销业务发展而来的制药企业；2020 年与 Upjohn 合并成立 Viatris。|viatris.com
+Tudor's Biscuit World|都铎比司吉|WV|1980|西弗吉尼亚州，查尔斯顿|餐饮与食品|以比司吉早餐三明治及家常风味早餐闻名的区域餐饮品牌。|tudorsbiscuitworld.com
+Hershey's|好时|PA|1894|宾夕法尼亚州，兰开斯特|餐饮与食品|Milton S. Hershey 创办的巧克力业务，后来在宾夕法尼亚州好时镇建设生产基地。|thehersheycompany.com
+Heinz|亨氏|PA|1869|宾夕法尼亚州，夏普斯堡|餐饮与食品|由 H. J. Heinz 的食品业务起步，以番茄酱、酱料和罐装食品闻名，现属卡夫亨氏。|heinz.com
+Comcast|康卡斯特|PA|1963|密西西比州，图珀洛；总部位于费城|科技与通信|前身为 American Cable Systems，经营宽带、有线电视、媒体与娱乐业务。|corporate.comcast.com
+American Eagle|美国鹰|PA|1977|密歇根州，诺维；总部位于匹兹堡|服饰与户外|以青年休闲服饰、牛仔裤及配件为主的零售品牌。|ae.com
+Crayola|绘儿乐|PA|1903|宾夕法尼亚州，伊斯顿|零售与消费|由 Binney & Smith 推出的蜡笔品牌，现提供多种儿童美术、绘画及创意用品。|crayola.com
+Wawa|瓦瓦便利店|PA|1964|宾夕法尼亚州，福尔瑟姆|零售与消费|由乳品企业发展出的便利店品牌，以现制三明治、咖啡和部分门店的燃油服务著称。|wawa.com
+Dick's|迪克体育用品|PA|1948|纽约州，宾厄姆顿；总部位于匹兹堡地区|零售与消费|Dick Stack 创办的体育用品零售企业，销售运动服饰、鞋履和户外装备。|dickssportinggoods.com
+Campbell's|金宝汤|NJ|1869|新泽西州，卡姆登|餐饮与食品|起源于 Joseph Campbell 与 Abraham Anderson 的食品企业，以罐装浓缩汤及便利食品闻名。|campbells.com
+Johnson & Johnson|强生|NJ|1886|新泽西州，新不伦瑞克|金融与服务|由 Johnson 兄弟创办，现聚焦创新药与医疗科技；消费健康业务已分拆为 Kenvue。|jnj.com
+Prudential|保德信|NJ|1875|新泽西州，纽瓦克|金融与服务|起源于 The Prudential Friendly Society，以保险、退休金及资产管理服务闻名。|prudential.com
+Merck|默沙东|NJ|1891|纽约州，纽约市；总部位于新泽西州|金融与服务|美国制药企业，在美国和加拿大以外通常称 MSD，业务覆盖药品、疫苗及动物保健。|merck.com
+Mars|玛氏|NJ|1911|华盛顿州，塔科马；地图关联新泽西州糖果业务|餐饮与食品|Frank C. Mars 创办的食品企业，拥有 M&M's、Snickers 及多个宠物食品品牌。|mars.com
+IBM|国际商业机器|NY|1911|纽约州，恩迪科特|科技与通信|前身为 Computing-Tabulating-Recording Company，1924 年更名，现聚焦企业软件、混合云与咨询。|ibm.com
+J.P. Morgan|摩根大通|NY|1799|纽约州，纽约市的前身银行|金融与服务|品牌历史源于多家银行，现 JPMorgan Chase 于 2000 年合并形成，提供综合金融服务。|jpmorganchase.com
+American Express|美国运通|NY|1850|纽约州，布法罗|金融与服务|起步于快递业务，后转型为信用卡、支付网络及旅行相关金融服务企业。|americanexpress.com
+Mastercard|万事达卡|NY|1966|美国多家银行联合组建|金融与服务|起源于 Interbank Card Association，1979 年启用 Mastercard 名称，现总部位于纽约州。|mastercard.com
+Verizon|威瑞森|NY|2000|纽约州，纽约市|科技与通信|由 Bell Atlantic 与 GTE 合并成立，提供移动通信、光纤宽带及企业网络服务。|verizon.com
+Colgate|高露洁|NY|1806|纽约州，纽约市|零售与消费|William Colgate 创办的日用品业务发展出的品牌，以牙膏和口腔护理产品闻名。|colgate.com
+Estée Lauder|雅诗兰黛|NY|1946|纽约州，纽约市|零售与消费|Estée 与 Joseph Lauder 创办的美容企业，经营护肤、彩妆、香水及多个美妆品牌。|elcompanies.com
+Ralph Lauren|拉夫劳伦|NY|1967|纽约州，纽约市|服饰与户外|由领带业务起步的时尚品牌，以 Polo 系列及美式生活方式设计闻名。|ralphlauren.com
+Tiffany & Co.|蒂芙尼|NY|1837|纽约州，纽约市|零售与消费|由 Charles Lewis Tiffany 等创办，经营珠宝、银器及奢侈品，现属 LVMH。|tiffany.com
+Bloomberg|彭博|NY|1981|纽约州，纽约市|娱乐与传媒|Michael Bloomberg 等创办的金融信息、数据及媒体企业，以 Bloomberg Terminal 闻名。|bloomberg.com
+Pfizer|辉瑞|NY|1849|纽约州，布鲁克林|金融与服务|由 Charles Pfizer 与 Charles Erhart 创办的制药企业，开发和生产药品及疫苗。|pfizer.com
+Chobani|乔巴尼|NY|2005|纽约州，南埃德梅斯顿|餐饮与食品|Hamdi Ulukaya 创办的食品企业，以希腊式酸奶闻名，首批产品于 2007 年上市。|chobani.com
+Xerox|施乐|CT|1906|纽约州，罗切斯特；总部位于康涅狄格州|科技与通信|前身为 Haloid Company，以复印、打印、文档管理及相关企业服务闻名。|xerox.com
+Subway|赛百味|CT|1965|康涅狄格州，布里奇波特|餐饮与食品|由 Fred DeLuca 和 Peter Buck 创办，以现场定制的潜艇三明治和特许经营模式闻名。|subway.com
+ESPN|娱乐与体育节目电视网|CT|1979|康涅狄格州，布里斯托尔|娱乐与传媒|体育媒体品牌，提供赛事直播、新闻、评论及数字体育内容，现由迪士尼控股。|espn.com
+Stanley|史丹利工具|CT|1843|康涅狄格州，新不列颠|汽车与工业|源于 Stanley Works，以手工具及相关产品闻名；此处为工具品牌，并非同名保温杯品牌。|stanleytools.com
+LEGO（美国业务）|乐高美国|CT|1932|丹麦，比隆；美国业务长期关联康涅狄格州|零售与消费|丹麦玩具品牌，以拼插积木和主题套装闻名；原图的美国州关联不代表品牌创立于美国。|lego.com
+CVS|西维斯药房|RI|1963|马萨诸塞州，洛厄尔；总部位于罗得岛州|零售与消费|起源于 Consumer Value Stores，现为 CVS Health 旗下的连锁药房品牌。|cvs.com
+Hasbro|孩之宝|RI|1923|罗得岛州，普罗维登斯|零售与消费|由 Hassenfeld 兄弟的贸易业务发展而来，旗下包括 Monopoly、Play-Doh 和 Transformers 等品牌。|hasbro.com
+Textron|德事隆|RI|1923|马萨诸塞州，波士顿；总部位于普罗维登斯|汽车与工业|由纺织业务转型的多元工业集团，旗下包括 Bell、Cessna 等航空品牌。|textron.com
+New Balance|新百伦|MA|1906|马萨诸塞州，波士顿|服饰与户外|由足弓支撑产品业务起步，后发展为运动鞋服品牌，部分鞋款在美国和英国生产。|newbalance.com
+Converse|匡威|MA|1908|马萨诸塞州，莫尔登|服饰与户外|以 Chuck Taylor All Star 帆布鞋闻名的鞋履品牌，2003 年被耐克收购。|converse.com
+Dunkin'|唐恩都乐|MA|1950|马萨诸塞州，昆西|餐饮与食品|William Rosenberg 创办的咖啡与甜甜圈连锁，原名 Dunkin' Donuts。|dunkindonuts.com
+Gillette|吉列|MA|1901|马萨诸塞州，波士顿|零售与消费|由 King C. Gillette 等创办，以安全剃须刀和剃须护理用品闻名，现属宝洁。|gillette.com
+Bose|博士音响|MA|1964|马萨诸塞州，剑桥|科技与通信|Amar Bose 创办的音频技术企业，以扬声器、耳机及主动降噪技术闻名。|bose.com
+Staples|史泰博|MA|1986|马萨诸塞州，布莱顿|零售与消费|办公用品零售及企业采购服务品牌，经营文具、办公设备、打印与相关服务。|staples.com
+Ocean Spray|优鲜沛|MA|1930|马萨诸塞州，汉森|餐饮与食品|由种植者成立的农业合作社，以蔓越莓果汁、果干及相关食品闻名。|oceanspray.com
+Ben & Jerry's|本杰瑞|VT|1978|佛蒙特州，伯灵顿|餐饮与食品|Ben Cohen 和 Jerry Greenfield 创办的冰淇淋品牌，以丰富配料与特色口味闻名。|benjerry.com
+Burton|伯顿|VT|1977|佛蒙特州，伦敦德里|服饰与户外|Jake Burton Carpenter 创办的单板滑雪品牌，产品覆盖雪板、固定器、雪靴与服饰。|burton.com
+Green Mountain|绿山咖啡|VT|1981|佛蒙特州，韦茨菲尔德|餐饮与食品|由咖啡烘焙店发展而来的咖啡品牌，现属 Keurig Dr Pepper 体系。|keurig.com
+Timberland|添柏岚|NH|1952|马萨诸塞州，阿宾顿；后总部位于新罕布什尔州|服饰与户外|前身为 Abington Shoe Company，1973 年推出 Timberland 靴款，以黄靴和户外服饰闻名。|timberland.com
+Stonyfield|石野有机酸奶|NH|1983|新罕布什尔州，威尔顿|餐饮与食品|从小型有机农场起步的酸奶品牌，强调有机原料与农业实践。|stonyfield.com
+L.L.Bean|L.L.Bean 户外|ME|1912|缅因州，弗里波特|服饰与户外|Leon Leonwood Bean 创办，以 Bean Boots 猎靴、户外服饰和装备闻名。|llbean.com
+Hannaford|汉纳福德|ME|1883|缅因州，波特兰|零售与消费|由农产品批发业务发展而来的美国东北部超市品牌。|hannaford.com
+Tom's of Maine|缅因汤姆|ME|1970|缅因州，肯纳邦克|零售与消费|Tom 与 Kate Chappell 创办的个人护理品牌，主要经营牙膏、除臭产品等，现由高露洁控股。|tomsofmaine.com
