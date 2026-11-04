@@ -1,0 +1,261 @@
+Amazon|Bellevue, Washington|Started as an online bookstore and expanded into e-commerce, cloud computing, and digital services. Its businesses include Amazon Web Services (AWS).
+Starbucks|Seattle, Washington|Began selling coffee beans at Seattle's Pike Place Market before growing into a global coffeehouse chain.
+Costco|Seattle, Washington|A membership warehouse retailer known for bulk merchandise and its Kirkland Signature private-label products.
+Nordstrom|Seattle, Washington|Grew from a shoe store into a department-store business offering clothing, footwear, beauty, and home products.
+REI|Seattle, Washington|A consumer cooperative selling outdoor equipment for hiking, camping, climbing, and cycling.
+Boeing|Seattle, Washington|An aerospace manufacturer whose businesses include commercial aircraft, defense equipment, and space systems.
+Eddie Bauer|Seattle, Washington|An outdoor clothing brand known for down jackets, originating in Eddie Bauer's sporting-goods shop.
+Fred Meyer|Portland, Oregon|A one-stop retail chain combining groceries, clothing, and home products. It is part of Kroger.
+Nike|Eugene, Oregon|Founded as Blue Ribbon Sports, it adopted the Nike name in 1971. Known worldwide for athletic footwear, apparel, and its Swoosh emblem.
+Columbia|Portland, Oregon|Started as a hat distributor and developed into an outdoor apparel brand known for weather protection and insulation technologies.
+Schnitzer Steel|Portland, Oregon|A metals recycler renamed Radius Recycling in 2023. Toyota Tsusho acquired the business in 2025.
+J.R. Simplot|Declo, Idaho|An agriculture and food business known for potato processing, frozen french fries, and agricultural services.
+Micron|Boise, Idaho|A semiconductor company producing DRAM, NAND flash memory, and related storage solutions.
+Albertsons|Boise, Idaho|A major U.S. grocery and pharmacy retailer whose supermarket brands include Safeway.
+WinCo Foods|Boise, Idaho|Originally Waremart, this grocery retailer is known for employee ownership, warehouse-style stores, and low prices.
+PayneWest|Montana|An insurance brokerage formed by combining two Northwestern insurance businesses. It is part of Marsh McLennan Agency.
+Simms|Jackson, Wyoming; later moved to Bozeman, Montana|Known for fly-fishing waders, clothing, and equipment. Its Montana map placement follows the association shown in the reference image.
+Taco John's|Cheyenne, Wyoming|A Mexican-inspired American fast-food chain whose signature products include Potato Olés.
+Sinclair|Original company founded in New York; closely associated with Wyoming refining|A fuel brand recognized by its green dinosaur symbol. It became part of HF Sinclair in 2022.
+Apple|Los Altos, California|A consumer electronics and software company whose products and services include iPhone, Mac, iPad, and the App Store.
+Google|Menlo Park, California|Started with web search and expanded into advertising, Android, YouTube, and cloud services. Its parent company is Alphabet.
+Disney|Los Angeles, California|Grew from an animation studio into an entertainment group spanning film, television, theme parks, and consumer products.
+Visa|Fresno, California|Originated with the BankAmericard program. It operates a global electronic payments network and generally does not issue cards directly to consumers.
+McDonald's|San Bernardino, California|Founded by the McDonald brothers. Ray Kroc began developing its modern franchise system in 1955.
+Gap|San Francisco, California|A clothing brand that started with jeans and American casualwear. It is part of Gap Inc.
+Levi's|San Francisco, California|Founded by Levi Strauss, the apparel brand is known for riveted blue jeans and its 501 range.
+Patagonia|Ventura, California|An outdoor clothing and equipment brand emphasizing durability, repair services, and environmental protection.
+The North Face|San Francisco, California|Started as an outdoor equipment store and developed into a brand for climbing, skiing, and outdoor apparel and gear.
+Vans|Anaheim, California|Originated as the Van Doren Rubber Company. Known for skateboarding shoes, streetwear, and its connection to youth culture.
+HP|Palo Alto, California|Founded by Bill Hewlett and Dave Packard. Following the 2015 split, HP Inc. focuses on personal computers and printing.
+Intel|Mountain View, California|A semiconductor company known for microprocessors, x86 computing platforms, and chip manufacturing.
+Adobe|Mountain View, California|A creative and digital experience software company behind Photoshop, Illustrator, Acrobat, and PDF-related tools.
+Qualcomm|San Diego, California|A wireless technology and semiconductor company known for mobile communications, patent licensing, and Snapdragon chip platforms.
+PayPal|Palo Alto, California|Originated as Confinity and provides online payments, merchant services, and digital wallets.
+eBay|San Jose, California|Began as AuctionWeb, an online marketplace connecting individual sellers, businesses, and buyers.
+Netflix|Scotts Valley, California|Started with DVD rentals by mail before moving into subscription streaming and original film and television production.
+Activision|Mountain View, California|A video game publisher and developer known for Call of Duty. Microsoft acquired its parent, Activision Blizzard, in 2023.
+X / Twitter|San Francisco, California|A real-time social platform originally called Twitter. It was renamed X in 2023.
+Chevron|San Francisco, California|Traces its history to the Pacific Coast Oil Company. Its operations include oil and gas exploration, production, refining, and other energy businesses.
+Wells Fargo|San Francisco, California|Originally provided banking and express delivery services. It developed into a major U.S. bank and financial services company.
+Skechers|Manhattan Beach, California|A footwear brand focused on comfortable casual and athletic shoes for adults and children.
+In-N-Out|Baldwin Park, California|Founded by Harry and Esther Snyder. The burger chain is known for a concise menu, freshly prepared food, and drive-through service.
+Taco Bell|Downey, California|Glen Bell founded this Mexican-inspired American fast-food brand, now part of Yum! Brands.
+Dole|Oahu, Hawaii; also has California business roots|Originated with James Dole's Hawaiian Pineapple Company. The fruit and vegetable business, known for pineapples and bananas, has evolved through several corporate combinations.
+Nevada Gold Mines|Nevada|A gold-mining joint venture established by Barrick and Newmont to combine several of their Nevada mining operations.
+VIRNETX|United States; associated with Nevada on this map|A company focused on network security technologies, patents, and secure communications solutions.
+MGM Resorts|Las Vegas, Nevada|Originally MGM Grand, the company operates integrated resorts with hotels, dining, and entertainment.
+Zions Bank|Salt Lake City, Utah|A regional banking brand serving the western United States, offering deposit, lending, and financial services to individuals and businesses.
+DOMO|Utah|A cloud business intelligence and data visualization company helping organizations integrate and analyze business information.
+Qualtrics|Provo, Utah|An experience management software company offering research and analysis tools for customer, employee, product, and brand experiences.
+doTERRA|Pleasant Grove, Utah|A direct-selling brand focused on essential oils, personal care, and wellness-related products.
+USANA|Salt Lake City, Utah|A company producing nutritional supplements and personal care products, distributed through a direct-selling model.
+GoDaddy|Phoenix, Arizona|Originally called Jomax Technologies, it provides domain registration, website building, and hosting services.
+PetSmart|Phoenix, Arizona|A pet supplies and services chain offering food, accessories, grooming, and boarding at selected locations.
+U-Haul|Ridgefield, Washington; long associated with its Phoenix headquarters|Provides self-service moving trucks, trailer rentals, and storage. Its map placement follows its Arizona business association.
+Sprouts|Chandler, Arizona|A U.S. supermarket chain specializing in fresh produce, natural foods, and organic products.
+Microsoft|Albuquerque, New Mexico|Founded by Bill Gates and Paul Allen. Its businesses include Windows, Microsoft 365, Azure, Xbox, and artificial intelligence.
+Allsup's|Roswell, New Mexico|A Southwestern convenience-store chain known for hot food and burritos. It is part of Yesway.
+Presbyterian|Albuquerque, New Mexico|A nonprofit healthcare system providing hospital, clinic, and health insurance services.
+Coors|Golden, Colorado|A beer brand founded by Adolph Coors and Jacob Schueler. It is part of Molson Coors.
+Crocs|Boulder, Colorado|A footwear brand known for lightweight molded clogs and Croslite material, with products including casual shoes and shoe charms.
+Chipotle|Denver, Colorado|A fast-casual restaurant chain known for burritos, bowls, and customizable meals assembled to order.
+Red Robin|Seattle, Washington; later headquartered in Colorado|A casual dining chain focused on burgers and American food. Its Colorado placement follows the association in the reference image.
+Celestial Seasonings|Boulder, Colorado|A tea brand known for herbal blends and specialty teas, including its Sleepytime range.
+OtterBox|Fort Collins, Colorado|Known for protective cases for phones and tablets, as well as water-resistant and impact-resistant accessories.
+Bobcat|Gwinner, North Dakota|Its history is linked to Melroe and early compact loaders. Known for skid-steer loaders and compact construction equipment.
+Alerus|Grand Forks, North Dakota|Grew from a local bank into a financial services company offering banking, wealth management, retirement, and employee benefits services.
+POET|Scotland, South Dakota|A bioprocessing company that began with ethanol production. It produces biofuels and related agricultural coproducts.
+Raven|Sioux Falls, South Dakota|Known for precision agriculture technology and applied engineering. CNH acquired the company in 2021.
+Sanford Health|Sioux Falls, South Dakota|A nonprofit health system with roots in a local hospital, providing clinical care, insurance, and medical research services.
+Berkshire Hathaway|Textile predecessor founded in Rhode Island; headquartered in Omaha, Nebraska|Transformed from a textile business into a diversified holding company known for insurance operations and long-term investing.
+Union Pacific|United States; long associated with Omaha, Nebraska|A major freight railroad whose network primarily serves the western United States.
+Conagra|Grand Island, Nebraska|Originated as Nebraska Consolidated Mills. Its food brands include Hunt's and Healthy Choice.
+Kool-Aid|Hastings, Nebraska|A flavored drink powder developed by Edwin Perkins. The brand is part of Kraft Heinz.
+Koch|Wichita, Kansas|Originated as Wood River Oil and Refining. Its businesses span energy, chemicals, materials, industry, and investment.
+Garmin|Lenexa, Kansas|Started with GPS navigation and expanded into sports watches, aviation, marine, automotive, and outdoor devices.
+Pizza Hut|Wichita, Kansas|A pizza chain founded by brothers Dan and Frank Carney. It is part of Yum! Brands.
+AMC Theatres|Kansas City, Missouri; later headquartered in Kansas|Developed from the Dubinsky brothers' cinema business into a major movie theater operator.
+YRC|Oklahoma City, Oklahoma; later headquartered in Kansas|A less-than-truckload freight brand rooted in Yellow Transit. Parent company Yellow ceased operations and filed for bankruptcy in 2023.
+Sonic|Shawnee, Oklahoma|Originated as Top Hat Drive-In. Known for drive-in ordering, drinks, and American fast food.
+Love's|Watonga, Oklahoma|Founded by Tom and Judy Love. Operates highway travel stops, fuel stations, and services for professional truck drivers.
+Hobby Lobby|Oklahoma City, Oklahoma|A retail chain selling craft materials, art supplies, seasonal merchandise, and home decorations.
+QuikTrip|Tulsa, Oklahoma|A convenience-store and fuel-station chain offering freshly prepared food, drinks, and gasoline.
+Phillips 66|Bartlesville, Oklahoma|The fuel brand traces its roots to Phillips Petroleum. Today's Phillips 66 company was spun off from ConocoPhillips in 2012.
+ONEOK|Tulsa, Oklahoma Territory|Originated as Oklahoma Natural Gas. Its operations focus on natural gas, natural gas liquids, and midstream energy infrastructure.
+AT&T|New York City, New York; now headquartered in Dallas, Texas|A telecommunications company providing mobile, broadband, and business networking services. Its Texas placement follows the reference image's association.
+Dell|Austin, Texas|Founded by Michael Dell. Its products and services include personal computers, servers, storage, and enterprise IT.
+7-Eleven|Dallas, Texas|Originated in the retail operations of the Southland Ice Company and developed into an international convenience-store brand.
+Dr Pepper|Waco, Texas|A carbonated soft drink created by Charles Alderton, known for its distinctive blend of flavors.
+Whataburger|Corpus Christi, Texas|A burger chain founded by Harmon Dobson and partners, known for made-to-order food and orange-and-white restaurant designs.
+H-E-B|Kerrville, Texas|Grew from a small grocery store founded by Florence Butt. Primarily serves Texas and Mexico.
+Whole Foods|Austin, Texas|A supermarket chain specializing in natural and organic foods. Amazon acquired it in 2017.
+Southwest|San Antonio, Texas|A U.S. airline incorporated in 1967 and operating flights since 1971, known for its domestic route network.
+GameStop|Dallas, Texas|Originally Babbage's, it sells video games, consoles, accessories, and related collectibles.
+Texas Instruments|Newark, New Jersey; later developed in Dallas, Texas|Traces its history to Geophysical Service Inc. (GSI), adopting its current name in 1951. Primarily produces analog and embedded-processing chips.
+USAA|San Antonio, Texas|Provides insurance, banking, and financial services primarily to eligible military members, veterans, and their families.
+ExxonMobil|Formed by the merger of Exxon and Mobil; headquartered in Texas|An integrated energy and petrochemical company. Both predecessor companies have historical roots in the Standard Oil system.
+Sysco|Houston, Texas|Supplies food, equipment, and distribution services to restaurants, healthcare facilities, schools, hotels, and other customers.
+3M|Two Harbors, Minnesota|A materials science company that started in mining. Well-known brands include Scotch tape and Post-it notes.
+Target|Roseville, Minnesota|Developed within the Dayton department-store business into a major retailer of clothing, home products, groceries, and everyday goods.
+Best Buy|St. Paul, Minnesota|Originally Sound of Music, it sells consumer electronics and appliances and provides related technology services.
+General Mills|Minneapolis, Minnesota|Formed through the combination of milling businesses. Its food brands include Cheerios and Betty Crocker.
+Cargill|Conover, Iowa; headquartered in Minnesota|A privately held business operating in agricultural trading, processing, food ingredients, and nutrition.
+Hormel|Austin, Minnesota|A food company known for meat products and the SPAM canned-meat brand.
+Polaris|Roseau, Minnesota|Started with snowmobiles and expanded into all-terrain vehicles, off-road vehicles, motorcycles, and related equipment.
+Toro|Minneapolis, Minnesota|Provides lawn care, landscaping equipment, and irrigation solutions for homeowners and professional users.
+Principal|Des Moines, Iowa|Originated as Bankers Life. Provides retirement, insurance, asset management, and employee benefits services.
+Meredith|Des Moines, Iowa|A magazine publisher formerly behind titles such as Better Homes & Gardens. Its main publishing business joined Dotdash in 2021.
+Hy-Vee|Beaconsfield, Iowa|An employee-owned Midwestern supermarket chain with additional pharmacy, dining, and other services.
+Casey's|Boone, Iowa|A convenience-store and fuel-station chain known for pizza prepared in its stores.
+Rockwell Collins|Cedar Rapids, Iowa|An avionics business rooted in Collins Radio. It was later integrated into Collins Aerospace, now part of RTX.
+Anheuser-Busch|St. Louis, Missouri|An American brewer whose brands include Budweiser and Bud Light. It is part of AB InBev.
+Panera Bread|Kirkwood, Missouri|Originated as Saint Louis Bread Company. Offers bread, sandwiches, salads, soups, and coffee.
+Hallmark|Kansas City, Missouri|Founded by Joyce Hall as a greeting-card business. Its activities expanded into gifts, seasonal products, and entertainment.
+Enterprise|St. Louis, Missouri|Founded by Jack Taylor. Provides car rentals and related mobility services.
+O'Reilly|Springfield, Missouri|An automotive parts and tools retailer serving both individual vehicle owners and professional repair customers.
+Walmart|Rogers, Arkansas|Founded by Sam Walton. Operates large-format stores, membership warehouses, and e-commerce businesses.
+Tyson|Springdale, Arkansas|Started in poultry transportation and developed into a major business producing chicken, beef, pork, and prepared foods.
+Dillard's|Nashville, Arkansas|A department-store retailer founded by William T. Dillard, offering clothing, footwear, beauty, and home products.
+J.B. Hunt|Stuttgart, Arkansas|A transportation and logistics company providing intermodal shipping, dedicated fleets, and freight brokerage services.
+Popeyes|Arabi, Louisiana|Founded by Al Copeland. A fried-chicken chain known for Louisiana-inspired flavors and its chicken sandwich.
+Tabasco|Avery Island, Louisiana|A hot-sauce brand founded by the McIlhenny family. Its classic red sauce is made from peppers, vinegar, and salt.
+Lumen|Oak Ridge, Louisiana|Traces its roots to a local telephone company. Formerly CenturyLink, it adopted the Lumen Technologies name in 2020.
+Cleco|Louisiana|Originated as Louisiana Ice & Utilities. Primarily provides electricity services to Louisiana customers.
+Harley-Davidson|Milwaukee, Wisconsin|An American motorcycle brand known for large cruiser and touring motorcycles and the riding culture surrounding them.
+Kohler|Sheboygan, Wisconsin|Started in iron casting and developed into a kitchen and bathroom products brand, with hospitality and related businesses.
+Trek|Waterloo, Wisconsin|A bicycle and cycling equipment brand offering road, mountain, city, and electric-assist bicycles.
+S.C. Johnson|Racine, Wisconsin|A household cleaning and home-products company whose brands include Windex, Glade, and Raid.
+Culver's|Sauk City, Wisconsin|A restaurant chain known for ButterBurgers, frozen custard, and cheese curds.
+Snap-on|Milwaukee, Wisconsin|Provides tools, diagnostic equipment, and related solutions for professional repair and industrial applications.
+Abbott|Chicago, Illinois|A healthcare company operating in diagnostics, medical devices, nutrition, and pharmaceuticals in selected markets.
+Walgreens|Chicago, Illinois|Founded by Charles R. Walgreen. A pharmacy chain offering prescriptions, health services, and everyday retail products.
+Caterpillar|California, through the merger of Holt and Best|A construction machinery and power equipment manufacturer long associated with Peoria, Illinois. Its headquarters is now in Texas.
+John Deere|Grand Detour, Illinois|Grew from John Deere's steel-plow business into a manufacturer of agricultural, forestry, and construction equipment.
+United Airlines|Early airmail operations in Boise, Idaho|Developed through the combination of early aviation businesses. Now headquartered in Chicago, it operates domestic and international passenger routes.
+Kraft|Chicago, Illinois|Started with J. L. Kraft's cheese business. Kraft is now a food brand within Kraft Heinz.
+Wrigley|Chicago, Illinois|Known for chewing gum and confectionery brands including Doublemint and Juicy Fruit. It is part of Mars.
+State Farm|Bloomington, Illinois|An insurer founded by George J. Mecherle, known for auto, home, life, and other insurance products.
+Eli Lilly|Indianapolis, Indiana|A pharmaceutical company founded by Eli Lilly, researching and producing medicines in areas including diabetes, cancer, and immunology.
+Cummins|Columbus, Indiana|A power technology company providing engines, generators, components, and alternative power solutions.
+Steak 'n Shake|Normal, Illinois; later headquartered in Indianapolis, Indiana|A restaurant chain known for Steakburgers, french fries, and hand-dipped milkshakes.
+Ford|Detroit, Michigan|Founded by Henry Ford and partners. Known for assembly-line mass production, F-Series pickups, and the Mustang.
+General Motors|Flint, Michigan|Founded by William C. Durant. Its vehicle brands include Chevrolet, Buick, GMC, and Cadillac.
+Chevrolet|Detroit, Michigan|Founded by Louis Chevrolet, William C. Durant, and partners. It is now a vehicle brand within General Motors.
+Kellogg's|Battle Creek, Michigan|Founded by W. K. Kellogg and known for breakfast cereal. The original company split into two businesses in 2023.
+Domino's|Ypsilanti, Michigan|Originated as DomiNick's pizza restaurant. Known for pizza delivery, digital ordering, and its franchise network.
+Little Caesars|Garden City, Michigan|A pizza chain founded by Mike and Marian Ilitch, known for ready-to-collect products and value pricing.
+Whirlpool|St. Joseph, Michigan|Originally the Upton Machine Company. Its products include washing machines, refrigerators, and kitchen appliances.
+Amway|Ada, Michigan|Founded by Jay Van Andel and Rich DeVos. Uses direct selling to distribute nutrition, beauty, and household products.
+Steelcase|Grand Rapids, Michigan|Originally the Metal Office Furniture Company. Provides office furniture and workplace solutions.
+P&G|Cincinnati, Ohio|Founded by William Procter and James Gamble. Its consumer products brands include Tide and Pampers.
+Goodyear|Akron, Ohio|A tire company founded by Frank Seiberling, serving passenger vehicles, commercial vehicles, aviation, and other markets.
+Kroger|Cincinnati, Ohio|Founded by Bernard Kroger. A grocery retailer operating multiple regional supermarket and private-label brands.
+Wendy's|Columbus, Ohio|Founded by Dave Thomas. A fast-food chain known for square beef patties, burgers, and Frosty desserts.
+Jeni's|Columbus, Ohio|An artisan ice cream brand founded by Jeni Britton, known for distinctive recipes and seasonal flavors.
+Sherwin-Williams|Cleveland, Ohio|A paint and coatings company serving architectural, industrial, and professional markets.
+Scotts|Marysville, Ohio|Started in seeds and developed into a lawn-care brand offering grass seed, fertilizers, and gardening products.
+Progressive|Cleveland, Ohio|Founded by Joseph Lewis and Jack Green. An insurer known for auto insurance and online policy services.
+KFC|Corbin, Kentucky|Grew from Harland Sanders' restaurant business. Its first franchise opened in Utah in 1952. The brand is part of Yum! Brands.
+Papa Johns|Jeffersonville, Indiana; long headquartered in Kentucky|A pizza chain founded by John Schnatter, offering delivery, carryout, and digital ordering.
+Louisville Slugger|Louisville, Kentucky|A sporting goods brand known for baseball bats, originating in the Hillerich family's woodworking business.
+Fruit of the Loom|Warwick, Rhode Island; headquartered in Bowling Green, Kentucky|A basic apparel brand producing underwear, T-shirts, and casual clothing. It is part of Berkshire Hathaway.
+Brown-Forman|Louisville, Kentucky|A spirits company that started with Old Forester. Its brands include Jack Daniel's and Woodford Reserve.
+FedEx|Little Rock, Arkansas; began operations in Memphis in 1973|Founded by Frederick W. Smith. Provides express delivery, freight, and logistics services.
+AutoZone|Forrest City, Arkansas; headquartered in Memphis, Tennessee|Originally Auto Shack. A retailer of automotive parts, accessories, and maintenance supplies.
+Jack Daniel's|Lynchburg, Tennessee|A Tennessee whiskey brand known for maple-charcoal filtration. It is part of Brown-Forman.
+Dollar General|Scottsville, Kentucky; headquartered in Tennessee|Originated as J. L. Turner and Son. A discount retailer offering everyday goods, groceries, and home products.
+Cracker Barrel|Lebanon, Tennessee|Founded by Danny Evins. A restaurant and gift-store chain known for Southern home-style cooking and country-inspired decor.
+International Paper|Albany, New York; headquartered in Memphis, Tennessee|Formed by combining pulp and paper companies. Its business now focuses primarily on renewable fiber-based packaging.
+Milo's|Birmingham, Alabama|Started as Milo Carlton's restaurant. Its sweet tea later developed into the separate Milo's Tea Company.
+Regions|Birmingham, Alabama|A financial business formed through the combination of regional banks, offering retail banking, commercial banking, and wealth management.
+Books-A-Million|Florence, Alabama|Grew from a newspaper and magazine business into a bookstore chain selling books, stationery, toys, and cultural merchandise.
+Alfa|Montgomery, Alabama|Originated in the insurance activities of a state agricultural organization. Offers insurance for individuals, families, and businesses.
+Peavey|Meridian, Mississippi|Founded by Hartley Peavey. Produces instrument amplifiers, loudspeakers, and professional audio equipment.
+Viking|Greenwood, Mississippi|A kitchen appliance brand known for professional-style ranges and premium home cooking equipment.
+Trustmark|Jackson, Mississippi|Traces its history to Jackson Bank. Provides banking, wealth management, and related financial services.
+Coca-Cola|Atlanta, Georgia|Created by pharmacist John Pemberton. The carbonated drink grew into an international beverage brand and company.
+Delta|Crop-dusting aviation predecessor in Macon, Georgia|Originated as Huff Daland Dusters and developed into an airline serving domestic and international passenger routes.
+The Home Depot|Atlanta, Georgia|A home-improvement and building-supplies retailer. Its first stores opened in 1979, serving homeowners and professional customers.
+Chick-fil-A|Atlanta, Georgia|A chicken restaurant brand founded by S. Truett Cathy, whose restaurant business dates to the Dwarf Grill in 1946.
+UPS|Seattle, Washington; headquartered in the Atlanta area, Georgia|Originated as the American Messenger Company. Provides parcel delivery, freight, and supply-chain services.
+Arby's|Boardman, Ohio; headquartered in the Atlanta area, Georgia|A fast-food chain founded by brothers Forrest and Leroy Raffel, known for roast beef sandwiches.
+Waffle House|Avondale Estates, Georgia|Founded by Joe Rogers and Tom Forkner. Known for waffles, breakfast dishes, and around-the-clock dining.
+Publix|Winter Haven, Florida|Founded by George W. Jenkins. An employee-owned supermarket company primarily serving the southeastern United States.
+Burger King|Miami, Florida|The modern brand was founded by James McLamore and David Edgerton. Its predecessor, Insta-Burger King, dates to 1953.
+Ryder|Miami, Florida|Founded by Jim Ryder. Provides commercial truck leasing, fleet management, warehousing, and supply-chain services.
+Chewy|Plantation, Florida|Founded by Ryan Cohen and Michael Day. An online retailer of pet food and supplies, also offering pet health-related services.
+Royal Caribbean|Miami, Florida, through a partnership with Norwegian shipping businesses|An international cruise brand known for large resort-style ships and onboard entertainment.
+FIS|Little Rock, Arkansas; headquartered in Jacksonville, Florida|A financial technology company with roots in Systematics, providing technology and processing services for banking and capital markets.
+Lowe's|North Wilkesboro, North Carolina|Grew from a family hardware store into a home-improvement retailer serving homeowners and professional customers.
+Pepsi|New Bern, North Carolina|Created by Caleb Bradham as Brad's Drink. The beverage was renamed Pepsi-Cola in 1898.
+Krispy Kreme|Winston-Salem, North Carolina|A doughnut brand founded by Vernon Rudolph, best known for its Original Glazed doughnut.
+SAS|Raleigh, North Carolina|Developed from a university statistical analysis project. Provides analytics, statistics, and artificial intelligence software.
+Bank of America|Merger of North Carolina-based NationsBank and BankAmerica|The current company formed in 1998, with earlier banking predecessors. Provides personal, business, and investment banking services.
+Hanes|Winston-Salem, North Carolina|Originated in the Hanes family's knitting business. Known for underwear, T-shirts, socks, and basic apparel.
+Bojangles|Charlotte, North Carolina|A restaurant chain specializing in Cajun-seasoned fried chicken, buttermilk biscuits, and Southern-style sides.
+Denny's|Lakewood, California; headquartered in South Carolina|Originated as Danny's Donuts. Known for American breakfasts, pancakes, and family dining.
+Sonoco|Hartsville, South Carolina|Originally the Southern Novelty Company. Produces packaging materials and containers for industrial and consumer products.
+Blackbaud|New York City, New York; headquartered in Charleston, South Carolina|Provides fundraising, management, and financial software for nonprofit organizations, educational institutions, and social-impact groups.
+Capital One|Richmond, Virginia|Spun off from Signet's credit-card business. Provides credit cards, banking, auto finance, and related services.
+Hilton|Cisco, Texas; headquartered in Virginia|Conrad Hilton began by acquiring the Mobley Hotel. The business developed into an international hotel and franchise group.
+CarMax|Richmond, Virginia|A used-car retailer launched within Circuit City, offering vehicle sales and related financing services.
+Dollar Tree|Norfolk, Virginia|Originated as Only $1.00. A discount retail chain now offering merchandise at several price points.
+Freddie Mac|Established by the U.S. Congress; headquartered in Virginia|A government-sponsored housing finance enterprise that supports mortgage markets by purchasing home loans and securitizing them.
+Marriott|Washington, D.C.; headquartered in Maryland|Started with J. Willard and Alice Marriott's food-service business and entered the hotel industry in 1957.
+Under Armour|Washington, D.C.; later headquartered in Baltimore, Maryland|Founded by Kevin Plank. Started with moisture-wicking athletic shirts and expanded into sports apparel, footwear, and equipment.
+McCormick|Baltimore, Maryland|Founded by Willoughby M. McCormick. Produces spices, seasonings, sauces, and food ingredients.
+GEICO|Fort Worth, Texas; headquartered in Maryland|Founded by Leo and Lillian Goodwin. Known for auto insurance and its gecko advertising character. It is part of Berkshire Hathaway.
+Lockheed Martin|Merger of Lockheed and Martin Marietta; headquartered in Bethesda, Maryland|An aerospace and defense technology company operating in aircraft, missiles, space, and related systems.
+DuPont|Near Wilmington, Delaware|Started as a gunpowder manufacturer and developed into a materials and chemicals company. Today's company reflects several reorganizations and spinoffs.
+W. L. Gore|Newark, Delaware|Founded by Bill and Vieve Gore. A materials technology company known for GORE-TEX waterproof, breathable fabrics and medical products.
+Chemours|Wilmington, Delaware|Spun off from part of DuPont's chemical businesses. Produces titanium dioxide, refrigerants, and advanced materials.
+Mylan|White Sulphur Springs, West Virginia|Grew from a pharmaceutical distribution business into a drug manufacturer. Merged with Upjohn in 2020 to form Viatris.
+Tudor's Biscuit World|Charleston, West Virginia|A regional restaurant brand known for biscuit breakfast sandwiches and home-style breakfast food.
+Hershey's|Lancaster, Pennsylvania|Milton S. Hershey founded the chocolate business, later establishing production in Hershey, Pennsylvania.
+Heinz|Sharpsburg, Pennsylvania|Originated with H. J. Heinz's food business. Known for ketchup, sauces, and packaged foods. It is part of Kraft Heinz.
+Comcast|Tupelo, Mississippi; headquartered in Philadelphia, Pennsylvania|Originally American Cable Systems. Operates broadband, cable television, media, and entertainment businesses.
+American Eagle|Novi, Michigan; headquartered in Pittsburgh, Pennsylvania|A retail brand focused on youth casualwear, jeans, and accessories.
+Crayola|Easton, Pennsylvania|A crayon brand introduced by Binney & Smith. Now offers a wide range of children's art supplies and creative products.
+Wawa|Folsom, Pennsylvania|A convenience-store brand developed from a dairy business. Known for made-to-order sandwiches, coffee, and fuel at selected locations.
+Dick's|Binghamton, New York; headquartered in the Pittsburgh area, Pennsylvania|A sporting goods retailer founded by Dick Stack, selling athletic apparel, footwear, and outdoor equipment.
+Campbell's|Camden, New Jersey|Originated with Joseph Campbell and Abraham Anderson's food business. Known for canned condensed soups and convenient prepared foods.
+Johnson & Johnson|New Brunswick, New Jersey|Founded by the Johnson brothers. Now focuses on innovative medicines and medical technology; its consumer health business became Kenvue.
+Prudential|Newark, New Jersey|Originated as the Prudential Friendly Society. Provides insurance, retirement, and asset management services.
+Merck|New York City, New York; headquartered in New Jersey|A U.S. pharmaceutical company generally called MSD outside the United States and Canada. Its businesses include medicines, vaccines, and animal health.
+Mars|Tacoma, Washington; New Jersey placement reflects confectionery operations|A food business founded by Frank C. Mars. Its brands include M&M's, Snickers, and several pet food brands.
+IBM|Endicott, New York|Originally the Computing-Tabulating-Recording Company, renamed in 1924. Now focuses on enterprise software, hybrid cloud, and consulting.
+J.P. Morgan|Predecessor bank in New York City, New York|Its history spans several banking businesses. Today's JPMorgan Chase formed through a merger in 2000 and offers comprehensive financial services.
+American Express|Buffalo, New York|Started in express delivery and expanded into charge and credit cards, a payments network, and travel-related financial services.
+Mastercard|Founded by a group of U.S. banks; headquartered in New York|Originated as the Interbank Card Association and adopted the Mastercard name in 1979. Operates an international electronic payments network.
+Verizon|New York City, New York|Formed through the merger of Bell Atlantic and GTE. Provides mobile communications, fiber broadband, and business networking services.
+Colgate|New York City, New York|Developed from William Colgate's household-products business. Known for toothpaste and oral care products.
+Estée Lauder|New York City, New York|Founded by Estée and Joseph Lauder. A beauty company operating skincare, makeup, fragrance, and multiple beauty brands.
+Ralph Lauren|New York City, New York|Started with neckties and developed into a fashion brand known for Polo and American lifestyle design.
+Tiffany & Co.|New York City, New York|Founded by Charles Lewis Tiffany and partners. Offers jewelry, silver, and luxury goods. It is part of LVMH.
+Bloomberg|New York City, New York|Founded by Michael Bloomberg and partners. A financial information, data, and media company known for the Bloomberg Terminal.
+Pfizer|Brooklyn, New York|Founded by Charles Pfizer and Charles Erhart. Develops and produces medicines and vaccines.
+Chobani|South Edmeston, New York|Founded by Hamdi Ulukaya. A food company known for Greek-style yogurt, with its first products launched in 2007.
+Xerox|Rochester, New York; headquartered in Connecticut|Originally the Haloid Company. Known for copying, printing, document management, and related business services.
+Subway|Bridgeport, Connecticut|Founded by Fred DeLuca and Peter Buck. Known for made-to-order submarine sandwiches and its franchise model.
+ESPN|Bristol, Connecticut|A sports media brand providing live events, news, commentary, and digital content. Disney holds a controlling interest.
+Stanley|New Britain, Connecticut|Originated as Stanley Works and is known for hand tools and related products. This entry covers the tool brand, not the separate drinkware brand.
+LEGO（美国业务）|Billund, Denmark; U.S. operations long associated with Connecticut|A Danish toy brand known for interlocking bricks and themed sets. Its U.S. state placement does not indicate that the brand was founded in America.
+CVS|Lowell, Massachusetts; headquartered in Rhode Island|Originated as Consumer Value Stores. It is the retail pharmacy brand within CVS Health.
+Hasbro|Providence, Rhode Island|Developed from the Hassenfeld brothers' trading business. Its brands include Monopoly, Play-Doh, and Transformers.
+Textron|Boston, Massachusetts; headquartered in Providence, Rhode Island|A diversified industrial group that evolved from textiles. Its aviation brands include Bell and Cessna.
+New Balance|Boston, Massachusetts|Started with arch supports and developed into an athletic footwear and apparel brand. Some shoes are made in the United States and United Kingdom.
+Converse|Malden, Massachusetts|A footwear brand known for Chuck Taylor All Star canvas shoes. Nike acquired it in 2003.
+Dunkin'|Quincy, Massachusetts|A coffee and doughnut chain founded by William Rosenberg. Originally called Dunkin' Donuts.
+Gillette|Boston, Massachusetts|Founded by King C. Gillette and partners. Known for safety razors and shaving products. It is part of P&G.
+Bose|Cambridge, Massachusetts|An audio technology company founded by Amar Bose, known for speakers, headphones, and active noise cancellation.
+Staples|Brighton, Massachusetts|An office supplies and business procurement brand offering stationery, office equipment, printing, and related services.
+Ocean Spray|Hanson, Massachusetts|A grower-owned agricultural cooperative known for cranberry juice, dried cranberries, and related food products.
+Ben & Jerry's|Burlington, Vermont|An ice cream brand founded by Ben Cohen and Jerry Greenfield, known for mix-ins and distinctive flavors.
+Burton|Londonderry, Vermont|A snowboarding brand founded by Jake Burton Carpenter. Its products include boards, bindings, boots, and apparel.
+Green Mountain|Waitsfield, Vermont|Developed from a coffee-roasting shop into a coffee brand. It is part of Keurig Dr Pepper.
+Timberland|Abington, Massachusetts; later headquartered in New Hampshire|Originally the Abington Shoe Company. Introduced the Timberland boot in 1973 and became known for yellow boots and outdoor apparel.
+Stonyfield|Wilton, New Hampshire|A yogurt brand that started on a small organic farm, emphasizing organic ingredients and farming practices.
+L.L.Bean|Freeport, Maine|Founded by Leon Leonwood Bean. Known for Bean Boots, outdoor clothing, and equipment.
+Hannaford|Portland, Maine|Developed from a produce wholesaler into a supermarket brand serving the northeastern United States.
+Tom's of Maine|Kennebunk, Maine|Founded by Tom and Kate Chappell. A personal care brand offering toothpaste, deodorant, and other products, majority-owned by Colgate.

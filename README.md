@@ -1,69 +1,79 @@
-# 美国品牌地图 · US Brand Atlas
+# US Brand Atlas
 
-一个可离线使用的交互式美国品牌地图。收录 **261 个品牌**，覆盖美国本土 **48 州**，点击品牌即可查看中文简介、创立或源起年份、历史渊源和官网链接。
+An interactive, offline-ready map featuring **261 brands** across the **48 contiguous U.S. states**. Click a brand to explore its founding or origin year, historical roots, industry, profile, and website.
+
+**Live website: https://us-brand-atlas.onrender.com**
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/huangchunbo2025/us-brand-atlas)
 
-## 在线体验
+## Features
 
-**https://us-brand-atlas.onrender.com**
+- An English interface and English profiles for all 261 brands.
+- A draggable, zoomable map with clickable brands and state collections.
+- Search by brand name or keywords, with exact-name matches ranked first.
+- Combined state and industry filters, plus map and directory views.
+- A desktop profile sidebar and mobile detail sheet, with keyboard navigation.
+- A single HTML file without runtime dependencies or external font, script, or image requests.
 
-由 Render Static Site 托管，推送到 `main` 分支后自动部署。
+Chinese brand names remain available as search aliases; displayed profiles are in English.
 
-## 功能
+## Open locally
 
-- 地图点击、拖动、缩放与州内品牌列表。
-- 中英文品牌搜索，精确名称优先；支持与州、行业筛选叠加。
-- 地图与全部品牌目录两种视图。
-- 桌面资料侧栏和手机资料面板，支持键盘操作。
-- 单个 HTML 文件，无运行时依赖，无外部字体、脚本或图片请求。
+Download and open [`public/index.html`](public/index.html). No dependency installation, server, or API key is needed.
 
-## 本地使用
-
-直接下载并打开 [`public/index.html`](public/index.html) 即可。无需安装依赖、启动服务器或配置密钥。
-
-如果需要通过 HTTP 访问，在仓库根目录执行：
+For local HTTP access, run this from the repository root:
 
 ```sh
 python3 -m http.server 8000 --directory public
 ```
 
-访问 `http://localhost:8000`。
+Then visit `http://localhost:8000`.
 
-## 在 Render 免费部署
+## Deploy on Render
 
-本项目使用 Render **Static Site（静态站点）**，不需要付费 Web Service、数据库或后台进程。免费额度及超额规则以 [Render 官方定价](https://render.com/pricing) 为准。
+This project uses a Render **Static Site**, without a paid Web Service, database, or background process. Free allowances and overage rules are subject to [Render's pricing](https://render.com/pricing).
 
-点击上方 **Deploy to Render**，登录 Render 并按 Blueprint 创建站点。仓库已提供 `render.yaml`：
+Click **Deploy to Render** above, sign in, and create the site from the included `render.yaml` Blueprint.
 
-| 配置 | 值 |
+| Setting | Value |
 | --- | --- |
-| 类型 | Static Site |
-| 仓库 | `https://github.com/huangchunbo2025/us-brand-atlas` |
-| 分支 | `main` |
-| Build Command | 留空，使用已提交的 HTML |
+| Service type | Static Site |
+| Repository | `https://github.com/huangchunbo2025/us-brand-atlas` |
+| Branch | `main` |
+| Build Command | Leave blank; publish the committed HTML |
 | Publish Directory | `public` |
-| 自动部署 | 每次提交到 `main` |
+| Automatic deployments | On commits to `main` |
 
-Render 完成部署后会提供 HTTPS 的 `*.onrender.com` 地址。不需要环境变量。
+Render supplies an HTTPS `*.onrender.com` address. No environment variables are required.
 
-## 修改与重新生成
+## Edit and rebuild
 
-源文件与生成的 HTML 一起保存在仓库中，方便复用与维护。
+Both source files and generated HTML are committed to the repository.
 
 ```text
-data/brands.txt       品牌数据，每行以 | 分隔的八个字段
-data/us-map.json      US Atlas 预投影州界数据
-src/template.html    页面结构、样式与交互逻辑
-tools/build.py       仅使用 Python 标准库的生成工具
-public/index.html    可独立打开的成品，Render 发布目录
-tests/check.cjs      DOM 层面的交互检查
-render.yaml          Render 静态站点 Blueprint
+data/brands.txt       Original reference data and Chinese search aliases
+data/brands.en.txt    English origin and description for each brand
+data/us-map.json      Pre-projected US Atlas state boundaries
+src/template.html    English interface, styles, and interaction logic
+tools/build.py       Generator using only the Python standard library
+public/index.html    Standalone output and Render publish directory
+tests/check.cjs      DOM-level interaction and English content checks
+render.yaml          Render Static Site Blueprint
 ```
 
-品牌数据字段为：`英文名|中文名|州代码|源起年份|创立地点或历史渊源|行业|简介|官网域名或资料路径`。
+The original dataset has eight pipe-separated fields:
 
-修改源文件后重新生成，并将成品一并提交：
+```text
+name|Chinese alias|state code|origin year|historical roots|industry|description|website domain or reference path
+```
+
+The English dataset is keyed by the original brand name, with three pipe-separated fields:
+
+```text
+name|English historical roots|English description
+```
+
+The build requires an English profile for every entry and maps industries to English labels. To update the site, edit the source files, regenerate the HTML, and commit the output:
 
 ```sh
 python3 tools/build.py
@@ -72,29 +82,31 @@ git commit -m "Update brand atlas"
 git push
 ```
 
-构建过程无需联网。维护资料时应核对品牌官方历史，尤其注意创立年份、品牌启用年份和企业合并年份的区别。
+The build works offline. When updating historical information, check official sources and distinguish founding dates from brand launches, incorporations, and mergers.
 
-## 验证
+## Validation
 
-开发检查需要 Node.js 22+，运行时不需要 Node.js。
+Development checks require Node.js 22+. The published website does not require Node.js.
 
 ```sh
 npm ci
 npm test
 ```
 
-检查涵盖品牌卡片、链接、搜索、空结果、组合筛选、州列表、缩放边界、上一个/下一个、说明弹窗及手机资料面板。使用 LinkeDOM 检查 DOM 和事件逻辑，**不等同于真实浏览器的视觉或兼容性测试**。
+Checks cover all English profiles and state lists, accessibility labels, links, search and Chinese aliases, empty results, combined filters, zoom limits, previous/next navigation, the information dialog, and the mobile detail sheet.
 
-## 数据口径与来源
+Tests use LinkeDOM to check DOM and event logic. They do **not** replace visual or compatibility testing in a real browser.
 
-- 灵感来自用户提供的 “United States of Brands” 图片，图片署名为 International Relations Illustrated。仓库未包含该原图。
-- 仅整理原图中可辨识的品牌，并补充部分品牌；不是对原图全部商标的逐一复刻。
-- 地图州位置表示历史或总部关联，不统一代表创立地或现总部。资料卡单列历史渊源；部分关联沿用原图。
-- 简介为公开历史资料的简要整理，官网链接用于进一步核对，不保证经营状态等信息实时更新。欢迎提交有来源的更正。
-- 州界来自 [US Atlas](https://github.com/topojson/us-atlas)，基于美国人口普查局边界数据，使用 ISC 许可，原始许可见 [`licenses/us-atlas-ISC.txt`](licenses/us-atlas-ISC.txt)。
+## Methodology and sources
 
-## 许可
+- Inspired by the supplied “United States of Brands” image, credited to International Relations Illustrated. The original image is not included in this repository.
+- The collection includes identifiable brands from the reference and additional entries. It is not a complete reproduction of every mark in the image.
+- Map positions indicate historical or headquarters connections, not consistently founding locations or current headquarters. Profiles separately explain historical roots. Some associations follow the reference image.
+- Profiles summarize public historical information. Website links support further verification; business status and other information may not be current. Source-backed corrections are welcome.
+- State boundaries come from [US Atlas](https://github.com/topojson/us-atlas), based on U.S. Census Bureau data. The ISC license is retained in [`licenses/us-atlas-ISC.txt`](licenses/us-atlas-ISC.txt) and the generated HTML.
 
-项目代码及本项目撰写的说明采用 [MIT License](LICENSE)。第三方地图数据保留其原有 ISC 许可。
+## License
 
-品牌名称仅用于识别和说明，不是官方商标图稿。品牌名称、商标及其他第三方权利属于各自权利人；MIT 许可不授予这些第三方权利，不代表品牌授权或背书。
+Project code and project-authored documentation use the [MIT License](LICENSE). Third-party map data retains its ISC license.
+
+Brand names are used for identification and explanation, not as official logo artwork. Names, trademarks, and other third-party rights belong to their respective owners. The MIT license does not grant those rights, and inclusion does not imply endorsement or authorization.

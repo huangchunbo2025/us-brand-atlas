@@ -11,24 +11,29 @@ const run=s=>vm.runInContext(s,context),$=id=>document.getElementById(id);
 assert.equal(run('B.length'),261);assert.equal(run('S.length'),48);
 assert.equal(document.querySelectorAll('.state-shape').length,48);
 assert.equal(run('S.filter(s=>!B.some(b=>b.state===s.id)).length'),0);
-assert($('detail').textContent.includes('星巴克'));
+assert.equal(document.documentElement.lang,'en');
+assert.equal(run('B.filter(b=>/[\\u4e00-\\u9fff]/u.test(b.name+b.origin+b.cat+b.desc)).length'),0);
+assert($('detail').textContent.includes('Starbucks'));
 const pins=[...document.querySelectorAll('.brand-pin')];
 assert(pins.length>70);assert(pins.length<261);
-pins[0].onclick({stopPropagation(){}});assert($('detail').textContent.includes('创立 / 源起年份'));
-run('showBrand(8,false)');assert($('detail').textContent.includes('耐克'));
-$('search').value='微软';$('search').oninput();assert(run('matches.some(b=>b.name==="Microsoft")'));assert($('detail').textContent.includes('新墨西哥州'));
-$('search').value='xyz不存在';$('search').oninput();assert.equal(run('matches.length'),0);assert.equal($('empty').style.display,'flex');
+pins[0].onclick({stopPropagation(){}});assert($('detail').textContent.includes('Founded / origins'));
+run('showBrand(8,false)');assert($('detail').textContent.includes('Nike'));
+$('search').value='Microsoft';$('search').oninput();assert.equal(run('matches[0].name'),'Microsoft');assert($('detail').textContent.includes('New Mexico'));
+$('search').value='\u5fae\u8f6f';$('search').oninput();assert.equal(run('matches[0].name'),'Microsoft');
+$('search').value='no-such-brand-xyz';$('search').oninput();assert.equal(run('matches.length'),0);assert.equal($('empty').style.display,'flex');assert($('empty').textContent.includes('No brands found'));
 $('empty-reset').onclick();assert.equal(run('matches.length'),261);
 $('list-view').onclick();assert.equal(document.querySelectorAll('.brand-card').length,261);
-for(const card of document.querySelectorAll('.brand-card')){card.onclick();assert($('detail').textContent.includes('关于这个品牌'));assert.equal($('detail').querySelector('a').getAttribute('href').slice(0,8),'https://');}
+for(const card of document.querySelectorAll('.brand-card')){card.onclick();assert($('detail').textContent.includes('ABOUT THE BRAND'));assert(!/[\u4e00-\u9fff]/u.test($('detail').textContent));assert.equal($('detail').querySelector('a').getAttribute('href').slice(0,8),'https://');}
 $('state').value='CA';$('state').onchange();assert.equal(document.querySelectorAll('.brand-card').length,run('B.filter(b=>b.state==="CA").length'));
-const cat=document.querySelector('[data-cat="科技与通信"]');cat.onclick();assert(run('matches.every(b=>b.state==="CA"&&b.cat==="科技与通信")'));
+const cat=document.querySelector('[data-cat="Tech & Telecom"]');cat.onclick();assert(run('matches.every(b=>b.state==="CA"&&b.cat==="Tech & Telecom")'));
 $('clear-filters').onclick();
 run('showState("RI",false)');assert.equal(document.querySelectorAll('.state-brand').length,3);
+for(const ab of run('S.map(s=>s.id)')){run(`showState(${JSON.stringify(ab)},false)`);assert(!/[\u4e00-\u9fff]/u.test($('detail').textContent));}
+for(const el of document.querySelectorAll('[aria-label]'))assert(!/[\u4e00-\u9fff]/u.test(el.getAttribute('aria-label')));
 $('map-view').onclick();$('zoom-in').onclick();assert.equal($('zoom-level').textContent,'140%');$('zoom-out').onclick();assert.equal($('zoom-level').textContent,'100%');
 run('for(let i=0;i<20;i++)changeZoom(.4)');assert.equal($('zoom-level').textContent,'400%');$('zoom-reset').onclick();assert.equal($('zoom-level').textContent,'100%');
 run('showBrand(1,false)');$('next').onclick();assert.equal(run('active'),2);$('prev').onclick();assert.equal(run('active'),1);
 $('about-open').onclick();assert($('about').classList.contains('open'));$('about-close').onclick();assert(!$('about').classList.contains('open'));
 run('matchMedia=()=>({matches:true}); showBrand(8,true)');assert($('panel').classList.contains('mobile-open'));assert($('shade').classList.contains('open'));$('close-panel').onclick();assert(!$('panel').classList.contains('mobile-open'));
 assert.equal(/<(script|link|img)[^>]+(src|href)=["']https?:/i.test(html),false);
-console.log(JSON.stringify({result:'PASS',brands:261,states:48,defaultMapBrandPins:pins.length,checks:['all 261 detail cards and HTTPS links','all 48 states populated','map brand click','Chinese search','empty result and reset','directory and card clicks','combined industry and state filters','state brand list','zoom min/max/reset','previous/next','about modal','mobile detail sheet','no external runtime assets']},null,2));
+console.log(JSON.stringify({result:'PASS',brands:261,states:48,defaultMapBrandPins:pins.length,checks:['all 261 English detail cards and HTTPS links','all 48 English state lists','English accessibility labels','map brand click','English search and Chinese aliases','empty result and reset','directory and card clicks','combined industry and state filters','zoom min/max/reset','previous/next','about modal','mobile detail sheet','no external runtime assets']},null,2));

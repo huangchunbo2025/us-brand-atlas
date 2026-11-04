@@ -1,4 +1,4 @@
-import json, math, pathlib
+import json, pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 topo = json.loads((ROOT/'data/us-map.json').read_text())
@@ -92,10 +92,31 @@ for g in topo['objects']['states']['geometries']:
     path=''.join('M'+'L'.join(f'{x},{y}' for x,y in p)+'Z' for p in rings)
     states.append(dict(id=ab,zh=zh,en=name,path=path,ring=main,center=[round(cx,1),round(cy,1)],area=round(area(main)),bounds=[min(p[0] for p in main),min(p[1] for p in main),max(p[0] for p in main),max(p[1] for p in main)]))
 
+english={}
+for line in (ROOT/'data/brands.en.txt').read_text(encoding='utf-8').strip().splitlines():
+    name,origin,desc=line.split('|')
+    if name in english:
+        raise ValueError(f'Duplicate English profile: {name}')
+    english[name]=dict(origin=origin,desc=desc)
+
+categories={
+    '科技与通信':'Tech & Telecom',
+    '餐饮与食品':'Food & Drink',
+    '服饰与户外':'Apparel & Outdoors',
+    '零售与消费':'Retail & Consumer Goods',
+    '汽车与工业':'Automotive & Industrial',
+    '金融与服务':'Finance & Services',
+    '能源与材料':'Energy & Materials',
+    '娱乐与传媒':'Media & Entertainment',
+}
 brands=[]
 for i,line in enumerate((ROOT/'data/brands.txt').read_text().strip().splitlines()):
     name,zh,state,year,origin,cat,desc,domain=line.split('|')
-    brands.append(dict(id=i,name=name,zh=zh,state=state,year=int(year),origin=origin,cat=cat,desc=desc,url='https://'+domain))
+    translated=english.pop(name)
+    display_name='LEGO (U.S. business)' if name=='LEGO（美国业务）' else name
+    brands.append(dict(id=i,name=display_name,zh=zh,state=state,year=int(year),origin=translated['origin'],cat=categories[cat],desc=translated['desc'],url='https://'+domain))
+if english:
+    raise ValueError(f'Unexpected English profiles: {list(english)}')
 
 template=(ROOT/'src/template.html').read_text()
 data=json.dumps(dict(brands=brands,states=states),ensure_ascii=False,separators=(',',':'))
@@ -103,6 +124,6 @@ out=template.replace('/*__DATA__*/',data)
 target=ROOT/'public/index.html'
 target.parent.mkdir(parents=True, exist_ok=True)
 notice=(ROOT/'licenses/us-atlas-ISC.txt').read_text()
-out=out.replace('<html lang="zh-CN">','<html lang="zh-CN">\n<!--\nMap geometry derived from US Atlas (ISC License).\n'+notice+'\n-->')
+out=out.replace('<html lang="en">','<html lang="en">\n<!--\nMap geometry derived from US Atlas (ISC License).\n'+notice+'\n-->')
 target.write_text(out, encoding='utf-8')
 print(f'{len(brands)} brands, {len(states)} states, {len(out.encode()):,} bytes → {target}')
