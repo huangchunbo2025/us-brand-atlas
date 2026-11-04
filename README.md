@@ -4,6 +4,12 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/huangchunbo2025/us-brand-atlas)
 
+## 在线体验
+
+**https://us-brand-atlas.onrender.com**
+
+由 Render Static Site 托管，推送到 `main` 分支后自动部署。
+
 ## 功能
 
 - 地图点击、拖动、缩放与州内品牌列表。
